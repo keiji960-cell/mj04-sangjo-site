@@ -5,7 +5,7 @@ import { fileURLToPath } from 'node:url';
 import path from 'node:path';
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
-const dataDir = path.join(__dirname, '../../../MJ_04/data');
+const dataDir = path.join(__dirname, '../data');
 const files = readdirSync(dataDir).filter((f) => f.startsWith('ftc_raw_') && f.endsWith('.tsv'));
 if (files.length === 0) throw new Error('ftc_raw_*.tsv 파일을 data/ 에서 찾을 수 없습니다.');
 const srcFile = files.sort().at(-1); // 가장 최근 스냅샷 사용
