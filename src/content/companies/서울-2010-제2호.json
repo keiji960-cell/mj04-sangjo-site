@@ -1,0 +1,42 @@
+{
+  "name": "더케이예다함(주)[(구)더케이예다함상조(주), 구[더케이라이프(주)]]",
+  "ceoNameMasked": "김 *  *",
+  "regNumber": "서울-2010-제2호",
+  "regDate": "2010-09-29",
+  "corpRegNumber": "1101114169862",
+  "bizRegNumber": "101-86-49300",
+  "corpAddress": "서울특별시 마포구 마포대로 86",
+  "officeAddress": "서울특별시 마포구 마포대로 86",
+  "phone": "1566-6644",
+  "email": "fin****@thekyedaham.co.kr",
+  "status": "정상영업",
+  "businessStartDate": "2009-09-02",
+  "finance": {
+    "currentAssets": 81518760757,
+    "fixedAssets": 836681960695,
+    "totalAssets": 918200721452,
+    "currentLiabilities": 10990042464,
+    "nonCurrentLiabilities": 798710525512,
+    "totalLiabilities": 809700567976,
+    "totalEquity": 108500153476,
+    "capital": 50000000000,
+    "capitalStatus": "정상",
+    "solvencyRatioCompany": 113,
+    "solvencyRatioAverage": 100,
+    "debtRatioCompany": 88,
+    "debtRatioAverage": 100
+  },
+  "prepayment": {
+    "totalPrepayment": 805959819420,
+    "guaranteeRatio": 51,
+    "guaranteeInstitution": "우리은행/신한은행/KEB하나은행/전북은행/수협은행/SC제일은행",
+    "guaranteeType": "지급보증/지급보증/지급보증/지급보증/지급보증/지급보증",
+    "guaranteeAmount": null,
+    "guaranteeInstitutionDetail": "우리은행(여의도중앙금융센터), 신한은행(여의도기업금융센터), KEB하나은행(내자동지점), 전북은행(여의도지점), 수협은행(강남금융센터), sc제일은행(본점)"
+  },
+  "source": {
+    "name": "공정거래위원회 선불식할부거래사업자 정보공개",
+    "url": "https://www.ftc.go.kr/www/selectBizPpitOpenList.do?key=250",
+    "asOfDate": "2026-07-22"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "name": "㈜웅진프리드라이프(구.(주)프리드라이프)",
+  "ceoNameMasked": "문 *  *",
+  "regNumber": "서울-2010-제4호",
+  "regDate": "2010-09-29",
+  "corpRegNumber": "2301110083681",
+  "bizRegNumber": "610-81-56858",
+  "corpAddress": "서울특별시 중구 세종대로 14",
+  "officeAddress": "상동",
+  "phone": "1588-3740",
+  "email": "adm**@preed.co.kr",
+  "status": "정상영업",
+  "businessStartDate": "2002-02-21",
+  "finance": {
+    "currentAssets": 406577926467,
+    "fixedAssets": 2875697712844,
+    "totalAssets": 3282275639311,
+    "currentLiabilities": 55292129560,
+    "nonCurrentLiabilities": 2975778744925,
+    "totalLiabilities": 3031070874485,
+    "totalEquity": 251204764826,
+    "capital": 8036230000,
+    "capitalStatus": "정상",
+    "solvencyRatioCompany": 108,
+    "solvencyRatioAverage": 100,
+    "debtRatioCompany": 92,
+    "debtRatioAverage": 100
+  },
+  "prepayment": {
+    "totalPrepayment": 2973423161596,
+    "guaranteeRatio": 51,
+    "guaranteeInstitution": "부산은행/IM뱅크(구.대구은행)/수협은행/IBK기업은행/하나은행/신한은행/신한은행/우리은행/우리은행/국민은행",
+    "guaranteeType": "지급보증/지급보증/지급보증/지급보증/지급보증/지급보증/예치계약/지급보증/예치계약/지급보증",
+    "guaranteeAmount": null,
+    "guaranteeInstitutionDetail": "우리은행(여의도북지점), 신한은행(여의도금융센터), 수협은행(강남기업금융본부), 하나은행(영업1부), IM뱅크(성남영업부), 기업은행(평촌범계역지점), 국민은행(대기업1센터2부), 부산은행(서울금융센터)"
+  },
+  "source": {
+    "name": "공정거래위원회 선불식할부거래사업자 정보공개",
+    "url": "https://www.ftc.go.kr/www/selectBizPpitOpenList.do?key=250",
+    "asOfDate": "2026-07-22"
+  }
+}

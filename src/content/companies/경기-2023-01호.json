@@ -1,0 +1,42 @@
+{
+  "name": "(주)유니드라이프[그랜드라이프㈜[구, 하나글로벌라이프㈜, 전국통합상조협회㈜, ㈜천세상조]]",
+  "ceoNameMasked": "고 *  *",
+  "regNumber": "경기-2023-01호",
+  "regDate": "2012-06-13",
+  "corpRegNumber": "1101114860767",
+  "bizRegNumber": "204-86-34300",
+  "corpAddress": "경기도 남양주시 별내중앙로 30",
+  "officeAddress": "경기도 남양주시 별내중앙로 30",
+  "phone": "1544-7046",
+  "email": "une******@naver.com",
+  "status": "정상영업",
+  "businessStartDate": "2012-05-08",
+  "finance": {
+    "currentAssets": 6472044,
+    "fixedAssets": 236367995,
+    "totalAssets": 242840039,
+    "currentLiabilities": 226170591,
+    "nonCurrentLiabilities": 383398620,
+    "totalLiabilities": 609569211,
+    "totalEquity": -366729172,
+    "capital": 1500000000,
+    "capitalStatus": "완전자본잠식",
+    "solvencyRatioCompany": 4,
+    "solvencyRatioAverage": 100,
+    "debtRatioCompany": 251,
+    "debtRatioAverage": 100
+  },
+  "prepayment": {
+    "totalPrepayment": 376483480,
+    "guaranteeRatio": 53,
+    "guaranteeInstitution": "국민은행",
+    "guaranteeType": "예치계약",
+    "guaranteeAmount": 198910791,
+    "guaranteeInstitutionDetail": "국민은행(먹골역 지점)"
+  },
+  "source": {
+    "name": "공정거래위원회 선불식할부거래사업자 정보공개",
+    "url": "https://www.ftc.go.kr/www/selectBizPpitOpenList.do?key=250",
+    "asOfDate": "2026-07-22"
+  }
+}

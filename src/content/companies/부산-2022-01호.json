@@ -1,0 +1,42 @@
+{
+  "name": "온라이프상조(주)",
+  "ceoNameMasked": "노 *  *",
+  "regNumber": "부산-2022-01호",
+  "regDate": "2022-08-31",
+  "corpRegNumber": "1801111461879",
+  "bizRegNumber": "857-81-02607",
+  "corpAddress": "부산광역시 부산진구 가야대로 767",
+  "officeAddress": "부산광역시 부산진구 가야대로 767",
+  "phone": "1660-2013/051-927-8111",
+  "email": "on*@on-life.co.kr",
+  "status": "정상영업",
+  "businessStartDate": "2022-09-01",
+  "finance": {
+    "currentAssets": 2007265644,
+    "fixedAssets": 2073596159,
+    "totalAssets": 4080861803,
+    "currentLiabilities": 240102882,
+    "nonCurrentLiabilities": 2379307602,
+    "totalLiabilities": 2619410484,
+    "totalEquity": 1461451319,
+    "capital": 1500000000,
+    "capitalStatus": "부분자본잠식",
+    "solvencyRatioCompany": 162,
+    "solvencyRatioAverage": 100,
+    "debtRatioCompany": 64,
+    "debtRatioAverage": 100
+  },
+  "prepayment": {
+    "totalPrepayment": 593315000,
+    "guaranteeRatio": 50,
+    "guaranteeInstitution": "국민은행",
+    "guaranteeType": "예치계약",
+    "guaranteeAmount": 296657500,
+    "guaranteeInstitutionDetail": "국민은행 가야지점"
+  },
+  "source": {
+    "name": "공정거래위원회 선불식할부거래사업자 정보공개",
+    "url": "https://www.ftc.go.kr/www/selectBizPpitOpenList.do?key=250",
+    "asOfDate": "2026-07-22"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "name": "트래블뱅크(주)",
+  "ceoNameMasked": "유 *  *",
+  "regNumber": "서울-2023-제170호",
+  "regDate": "2023-02-06",
+  "corpRegNumber": "1911110058856",
+  "bizRegNumber": "613-81-70994",
+  "corpAddress": "서울특별시 마포구 만리재로 14",
+  "officeAddress": "서울특별시 마포구 만리재로 14",
+  "phone": "1566-3318",
+  "email": "fam*******@wehago.com",
+  "status": "정상영업",
+  "businessStartDate": null,
+  "finance": {
+    "currentAssets": 229178010,
+    "fixedAssets": 3605296123,
+    "totalAssets": 3834474133,
+    "currentLiabilities": 664084051,
+    "nonCurrentLiabilities": 8594135858,
+    "totalLiabilities": 9258219909,
+    "totalEquity": -5423745776,
+    "capital": 1500000000,
+    "capitalStatus": "완전자본잠식",
+    "solvencyRatioCompany": 34,
+    "solvencyRatioAverage": 100,
+    "debtRatioCompany": 241,
+    "debtRatioAverage": 100
+  },
+  "prepayment": {
+    "totalPrepayment": 2363870600,
+    "guaranteeRatio": 50,
+    "guaranteeInstitution": "상조보증공제조합",
+    "guaranteeType": "공제계약(여행상품)",
+    "guaranteeAmount": 1182889000,
+    "guaranteeInstitutionDetail": "상조보증공제조합"
+  },
+  "source": {
+    "name": "공정거래위원회 선불식할부거래사업자 정보공개",
+    "url": "https://www.ftc.go.kr/www/selectBizPpitOpenList.do?key=250",
+    "asOfDate": "2026-07-22"
+  }
+}

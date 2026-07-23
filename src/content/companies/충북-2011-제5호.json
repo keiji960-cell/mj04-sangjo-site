@@ -1,0 +1,42 @@
+{
+  "name": "㈜천화",
+  "ceoNameMasked": "남 *  *",
+  "regNumber": "충북-2011-제5호",
+  "regDate": "2011-03-16",
+  "corpRegNumber": "1701110129694",
+  "bizRegNumber": "503-81-36404",
+  "corpAddress": "충청북도 영동군 양산면 양산심천로 144",
+  "officeAddress": "서울특별시 노원구 동일로230가길 37",
+  "phone": "070-7016-3300",
+  "email": "kjd***@hanmail.net",
+  "status": "정상영업",
+  "businessStartDate": "1998-01-07",
+  "finance": {
+    "currentAssets": 4360626198,
+    "fixedAssets": 6952924176,
+    "totalAssets": 11313550374,
+    "currentLiabilities": 31295485,
+    "nonCurrentLiabilities": 8205230950,
+    "totalLiabilities": 8236526435,
+    "totalEquity": 3077023939,
+    "capital": 1500000000,
+    "capitalStatus": "정상",
+    "solvencyRatioCompany": 137,
+    "solvencyRatioAverage": 100,
+    "debtRatioCompany": 73,
+    "debtRatioAverage": 100
+  },
+  "prepayment": {
+    "totalPrepayment": 8323541150,
+    "guaranteeRatio": 59,
+    "guaranteeInstitution": "우리은행",
+    "guaranteeType": "예치계약",
+    "guaranteeAmount": 4923627860,
+    "guaranteeInstitutionDetail": "우리은행 대전중앙지점"
+  },
+  "source": {
+    "name": "공정거래위원회 선불식할부거래사업자 정보공개",
+    "url": "https://www.ftc.go.kr/www/selectBizPpitOpenList.do?key=250",
+    "asOfDate": "2026-07-22"
+  }
+}

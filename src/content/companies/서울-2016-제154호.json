@@ -1,0 +1,42 @@
+{
+  "name": "(주)유토피아퓨처[구, ㈜유토피아상조]",
+  "ceoNameMasked": "백 *  *",
+  "regNumber": "서울-2016-제154호",
+  "regDate": "2016-10-19",
+  "corpRegNumber": "1101113158311",
+  "bizRegNumber": "206-81-96587",
+  "corpAddress": "서울특별시 광진구 광나루로56길 85",
+  "officeAddress": "서울특별시 광진구 광나루로56길 85",
+  "phone": "1644-8277,02-482-8277",
+  "email": "uto******@gmail.com",
+  "status": "정상영업",
+  "businessStartDate": "2005-01-25",
+  "finance": {
+    "currentAssets": 209598857,
+    "fixedAssets": 7569709991,
+    "totalAssets": 7779308848,
+    "currentLiabilities": 112723535,
+    "nonCurrentLiabilities": 18027706450,
+    "totalLiabilities": 18140429985,
+    "totalEquity": -10361121137,
+    "capital": 3000000000,
+    "capitalStatus": "완전자본잠식",
+    "solvencyRatioCompany": 42,
+    "solvencyRatioAverage": 100,
+    "debtRatioCompany": 233,
+    "debtRatioAverage": 100
+  },
+  "prepayment": {
+    "totalPrepayment": 17726503450,
+    "guaranteeRatio": 50,
+    "guaranteeInstitution": "한국상조공제조합",
+    "guaranteeType": "공제계약",
+    "guaranteeAmount": 8863251725,
+    "guaranteeInstitutionDetail": "한국상조공제조합"
+  },
+  "source": {
+    "name": "공정거래위원회 선불식할부거래사업자 정보공개",
+    "url": "https://www.ftc.go.kr/www/selectBizPpitOpenList.do?key=250",
+    "asOfDate": "2026-07-22"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "name": "씨케이티피에스라이프(주)[구, 씨케이티(주), 피에스라이프(주)]",
+  "ceoNameMasked": "양 *  *",
+  "regNumber": "서울2018-제164호",
+  "regDate": "2018-11-01",
+  "corpRegNumber": "1101113794652",
+  "bizRegNumber": "120-87-21988",
+  "corpAddress": "서울특별시 송파구 중대로 158",
+  "officeAddress": "상동",
+  "phone": "02-569-0071",
+  "email": "yjj***@ckt21.com",
+  "status": "정상영업",
+  "businessStartDate": "2019-08-01",
+  "finance": {
+    "currentAssets": 410137149,
+    "fixedAssets": 1944876000,
+    "totalAssets": 2355013149,
+    "currentLiabilities": 202946942,
+    "nonCurrentLiabilities": 5410000,
+    "totalLiabilities": 208356942,
+    "totalEquity": 2146656207,
+    "capital": 5437105000,
+    "capitalStatus": "부분자본잠식",
+    "solvencyRatioCompany": 39779,
+    "solvencyRatioAverage": 100,
+    "debtRatioCompany": 9,
+    "debtRatioAverage": 100
+  },
+  "prepayment": {
+    "totalPrepayment": 5480000,
+    "guaranteeRatio": 85,
+    "guaranteeInstitution": "신한은행",
+    "guaranteeType": "예치계약",
+    "guaranteeAmount": 4658000,
+    "guaranteeInstitutionDetail": "신한은행 테헤란로기업금융센터"
+  },
+  "source": {
+    "name": "공정거래위원회 선불식할부거래사업자 정보공개",
+    "url": "https://www.ftc.go.kr/www/selectBizPpitOpenList.do?key=250",
+    "asOfDate": "2026-07-22"
+  }
+}

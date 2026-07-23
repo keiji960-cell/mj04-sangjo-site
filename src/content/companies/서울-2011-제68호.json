@@ -1,0 +1,42 @@
+{
+  "name": "㈜불국토",
+  "ceoNameMasked": "변 *  *",
+  "regNumber": "서울-2011-제68호",
+  "regDate": "2011-01-13",
+  "corpRegNumber": "1101112733990",
+  "bizRegNumber": "119-81-63948",
+  "corpAddress": "서울특별시 서초구 남부순환로 2265",
+  "officeAddress": "서울특별시 서초구 남부순환로 2265",
+  "phone": "02-3270-3377",
+  "email": "han****@btn.co.kr",
+  "status": "정상영업",
+  "businessStartDate": "2007-05-01",
+  "finance": {
+    "currentAssets": 4836645454,
+    "fixedAssets": 21966719841,
+    "totalAssets": 26803365295,
+    "currentLiabilities": 115221652,
+    "nonCurrentLiabilities": 26464018202,
+    "totalLiabilities": 26579239854,
+    "totalEquity": 224125441,
+    "capital": 2000000000,
+    "capitalStatus": "부분자본잠식",
+    "solvencyRatioCompany": 100,
+    "solvencyRatioAverage": 100,
+    "debtRatioCompany": 99,
+    "debtRatioAverage": 100
+  },
+  "prepayment": {
+    "totalPrepayment": 26577578567,
+    "guaranteeRatio": 54,
+    "guaranteeInstitution": "국민은행",
+    "guaranteeType": "예치계약",
+    "guaranteeAmount": 14412175177,
+    "guaranteeInstitutionDetail": "국민은행 방배남 지점"
+  },
+  "source": {
+    "name": "공정거래위원회 선불식할부거래사업자 정보공개",
+    "url": "https://www.ftc.go.kr/www/selectBizPpitOpenList.do?key=250",
+    "asOfDate": "2026-07-22"
+  }
+}

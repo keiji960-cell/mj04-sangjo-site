@@ -1,0 +1,42 @@
+{
+  "name": "㈜아이넷라이프[구, 새하늘상조]",
+  "ceoNameMasked": "이 *  *",
+  "regNumber": "서울-2011-제86호",
+  "regDate": "2011-03-15",
+  "corpRegNumber": "1341110152813",
+  "bizRegNumber": "138-81-39828",
+  "corpAddress": "서울특별시 서초구 양재천로11길 34",
+  "officeAddress": "서울특별시 서초구 양재천로11길 34",
+  "phone": "1800-9001,1577-4244",
+  "email": "ine*****@daum.net",
+  "status": "정상영업",
+  "businessStartDate": "2007-04-25",
+  "finance": {
+    "currentAssets": 1271378196,
+    "fixedAssets": 8882582302,
+    "totalAssets": 10153960498,
+    "currentLiabilities": 154108615,
+    "nonCurrentLiabilities": 8707508211,
+    "totalLiabilities": 8861616826,
+    "totalEquity": 1292343672,
+    "capital": 2010000000,
+    "capitalStatus": "부분자본잠식",
+    "solvencyRatioCompany": 115,
+    "solvencyRatioAverage": 100,
+    "debtRatioCompany": 87,
+    "debtRatioAverage": 100
+  },
+  "prepayment": {
+    "totalPrepayment": 8195561700,
+    "guaranteeRatio": 50,
+    "guaranteeInstitution": "우리은행",
+    "guaranteeType": "예치계약",
+    "guaranteeAmount": 4132830350,
+    "guaranteeInstitutionDetail": "우리은행(양재남금융센터)"
+  },
+  "source": {
+    "name": "공정거래위원회 선불식할부거래사업자 정보공개",
+    "url": "https://www.ftc.go.kr/www/selectBizPpitOpenList.do?key=250",
+    "asOfDate": "2026-07-22"
+  }
+}

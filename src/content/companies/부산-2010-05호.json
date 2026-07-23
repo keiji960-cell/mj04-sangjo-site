@@ -1,0 +1,42 @@
+{
+  "name": "더리본(주)[구. 케이엔엔라이프(주)]",
+  "ceoNameMasked": "박 *  *",
+  "regNumber": "부산-2010-05호",
+  "regDate": "2010-10-26",
+  "corpRegNumber": "1801110657891",
+  "bizRegNumber": "605-81-92018",
+  "corpAddress": "부산광역시 부산진구 자유평화로 11",
+  "officeAddress": "부산광역시 부산진구 자유평화로 11",
+  "phone": "02-3447-3651",
+  "email": "reb***@the-reborn.co.kr",
+  "status": "정상영업",
+  "businessStartDate": "2009-01-13",
+  "finance": {
+    "currentAssets": 76617502257,
+    "fixedAssets": 175718341439,
+    "totalAssets": 252335843696,
+    "currentLiabilities": 17179672012,
+    "nonCurrentLiabilities": 339640434681,
+    "totalLiabilities": 356820106693,
+    "totalEquity": -104484262997,
+    "capital": 2000000000,
+    "capitalStatus": "완전자본잠식",
+    "solvencyRatioCompany": 68,
+    "solvencyRatioAverage": 100,
+    "debtRatioCompany": 141,
+    "debtRatioAverage": 100
+  },
+  "prepayment": {
+    "totalPrepayment": 340919559550,
+    "guaranteeRatio": 50,
+    "guaranteeInstitution": "한국상조공제조합",
+    "guaranteeType": "공제계약",
+    "guaranteeAmount": 170459779775,
+    "guaranteeInstitutionDetail": "한국상조공제조합"
+  },
+  "source": {
+    "name": "공정거래위원회 선불식할부거래사업자 정보공개",
+    "url": "https://www.ftc.go.kr/www/selectBizPpitOpenList.do?key=250",
+    "asOfDate": "2026-07-22"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "name": "(주)에이플러스라이프",
+  "ceoNameMasked": "최 *  *",
+  "regNumber": "서울-2010-제3호",
+  "regDate": "2010-09-29",
+  "corpRegNumber": "1101113989245",
+  "bizRegNumber": "120-87-33918",
+  "corpAddress": "서울특별시 강남구 역삼로 415",
+  "officeAddress": "상동",
+  "phone": "1688-8860",
+  "email": "lif*@apluslife.co.kr",
+  "status": "정상영업",
+  "businessStartDate": "2008-11-01",
+  "finance": {
+    "currentAssets": 68577880391,
+    "fixedAssets": 50393206134,
+    "totalAssets": 118971086525,
+    "currentLiabilities": 2793722491,
+    "nonCurrentLiabilities": 59953453381,
+    "totalLiabilities": 62747175872,
+    "totalEquity": 56223910653,
+    "capital": 25500000000,
+    "capitalStatus": "정상",
+    "solvencyRatioCompany": 196,
+    "solvencyRatioAverage": 100,
+    "debtRatioCompany": 53,
+    "debtRatioAverage": 100
+  },
+  "prepayment": {
+    "totalPrepayment": 59053610584,
+    "guaranteeRatio": 50,
+    "guaranteeInstitution": "신한은행",
+    "guaranteeType": "지급보증",
+    "guaranteeAmount": 29526805292,
+    "guaranteeInstitutionDetail": "신한은행 삼성역기업금융센터점"
+  },
+  "source": {
+    "name": "공정거래위원회 선불식할부거래사업자 정보공개",
+    "url": "https://www.ftc.go.kr/www/selectBizPpitOpenList.do?key=250",
+    "asOfDate": "2026-07-22"
+  }
+}

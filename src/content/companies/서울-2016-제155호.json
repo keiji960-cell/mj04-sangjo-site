@@ -1,0 +1,42 @@
+{
+  "name": "산림조합라이프 주식회사[(구)에스제이산림조합상조 주식회사]",
+  "ceoNameMasked": "이 *  *",
+  "regNumber": "서울-2016-제155호",
+  "regDate": "2016-10-24",
+  "corpRegNumber": "1101116162799",
+  "bizRegNumber": "227-86-00536",
+  "corpAddress": "서울특별시 송파구 석촌호수로 166",
+  "officeAddress": "서울특별시 송파구 석촌호수로 166",
+  "phone": "1800-3535",
+  "email": "sjs*****@sjsangjo.com",
+  "status": "정상영업",
+  "businessStartDate": "2016-10-24",
+  "finance": {
+    "currentAssets": 45625181538,
+    "fixedAssets": 80650305408,
+    "totalAssets": 126275486946,
+    "currentLiabilities": 2433572114,
+    "nonCurrentLiabilities": 125206549160,
+    "totalLiabilities": 127640121274,
+    "totalEquity": -1364634328,
+    "capital": 2915040000,
+    "capitalStatus": "완전자본잠식",
+    "solvencyRatioCompany": 99,
+    "solvencyRatioAverage": 100,
+    "debtRatioCompany": 101,
+    "debtRatioAverage": 100
+  },
+  "prepayment": {
+    "totalPrepayment": 131633809100,
+    "guaranteeRatio": 50,
+    "guaranteeInstitution": "상조보증공제조합/신한은행",
+    "guaranteeType": "공제계약/지급보증",
+    "guaranteeAmount": null,
+    "guaranteeInstitutionDetail": "상조보증공제조합, 신한은행 문정역금융센터"
+  },
+  "source": {
+    "name": "공정거래위원회 선불식할부거래사업자 정보공개",
+    "url": "https://www.ftc.go.kr/www/selectBizPpitOpenList.do?key=250",
+    "asOfDate": "2026-07-22"
+  }
+}

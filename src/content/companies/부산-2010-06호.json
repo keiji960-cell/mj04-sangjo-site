@@ -1,0 +1,42 @@
+{
+  "name": "아가페라이프(주)[구.아가페상조(주)]",
+  "ceoNameMasked": "이 *  *",
+  "regNumber": "부산-2010-06호",
+  "regDate": "2010-10-26",
+  "corpRegNumber": "1801110203975",
+  "bizRegNumber": "606-81-61124",
+  "corpAddress": "부산광역시 남구 유엔평화로14번길 4",
+  "officeAddress": "부산광역시 남구 유엔평화로14번길 4",
+  "phone": "1644-0400",
+  "email": "aga*******@naver.com",
+  "status": "정상영업",
+  "businessStartDate": "1996-04-26",
+  "finance": {
+    "currentAssets": 899506220,
+    "fixedAssets": 4563934442,
+    "totalAssets": 5463440662,
+    "currentLiabilities": 20686923,
+    "nonCurrentLiabilities": 15164186662,
+    "totalLiabilities": 15184873585,
+    "totalEquity": -9721432923,
+    "capital": 2000000000,
+    "capitalStatus": "완전자본잠식",
+    "solvencyRatioCompany": 35,
+    "solvencyRatioAverage": 100,
+    "debtRatioCompany": 278,
+    "debtRatioAverage": 100
+  },
+  "prepayment": {
+    "totalPrepayment": 11195039000,
+    "guaranteeRatio": 50,
+    "guaranteeInstitution": "한국상조공제조합",
+    "guaranteeType": "공제계약",
+    "guaranteeAmount": 5597519500,
+    "guaranteeInstitutionDetail": null
+  },
+  "source": {
+    "name": "공정거래위원회 선불식할부거래사업자 정보공개",
+    "url": "https://www.ftc.go.kr/www/selectBizPpitOpenList.do?key=250",
+    "asOfDate": "2026-07-22"
+  }
+}

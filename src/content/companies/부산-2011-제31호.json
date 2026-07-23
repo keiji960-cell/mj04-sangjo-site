@@ -1,0 +1,42 @@
+{
+  "name": "(주)조흥",
+  "ceoNameMasked": "김 *  *",
+  "regNumber": "부산-2011-제31호",
+  "regDate": "2011-03-16",
+  "corpRegNumber": "1801110115089",
+  "bizRegNumber": "604-81-27611",
+  "corpAddress": "부산광역시 동구 조방로 39",
+  "officeAddress": "부산광역시 동구 조방로 39",
+  "phone": "051-636-1004",
+  "email": "636****@hanmail.net",
+  "status": "정상영업",
+  "businessStartDate": "1991-06-11",
+  "finance": {
+    "currentAssets": 4543335371,
+    "fixedAssets": 5524599350,
+    "totalAssets": 10067934721,
+    "currentLiabilities": 3684013940,
+    "nonCurrentLiabilities": 1803548470,
+    "totalLiabilities": 5487562410,
+    "totalEquity": 4580372311,
+    "capital": 1500000000,
+    "capitalStatus": "정상",
+    "solvencyRatioCompany": 436,
+    "solvencyRatioAverage": 100,
+    "debtRatioCompany": 55,
+    "debtRatioAverage": 100
+  },
+  "prepayment": {
+    "totalPrepayment": 1357670000,
+    "guaranteeRatio": 71,
+    "guaranteeInstitution": "우리은행",
+    "guaranteeType": "예치계약",
+    "guaranteeAmount": 964595000,
+    "guaranteeInstitutionDetail": "우리은행 범일지점"
+  },
+  "source": {
+    "name": "공정거래위원회 선불식할부거래사업자 정보공개",
+    "url": "https://www.ftc.go.kr/www/selectBizPpitOpenList.do?key=250",
+    "asOfDate": "2026-07-22"
+  }
+}

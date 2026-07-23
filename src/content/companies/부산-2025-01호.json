@@ -1,0 +1,42 @@
+{
+  "name": "(주)아정라이프케어",
+  "ceoNameMasked": "오 *  *",
+  "regNumber": "부산 2025-01호",
+  "regDate": "2025-07-28",
+  "corpRegNumber": "1801110161376",
+  "bizRegNumber": "448-81-03815",
+  "corpAddress": "부산광역시 사하구 낙동남로 1424",
+  "officeAddress": "상동",
+  "phone": "1833-7377",
+  "email": "scv*****@ajd.co.kr",
+  "status": "정상영업",
+  "businessStartDate": null,
+  "finance": {
+    "currentAssets": 1532878471,
+    "fixedAssets": 1000000,
+    "totalAssets": 1533878471,
+    "currentLiabilities": 84762323,
+    "nonCurrentLiabilities": 3608622,
+    "totalLiabilities": 88370945,
+    "totalEquity": 1445507526,
+    "capital": 1500000000,
+    "capitalStatus": "부분자본잠식",
+    "solvencyRatioCompany": 952972,
+    "solvencyRatioAverage": 100,
+    "debtRatioCompany": 6,
+    "debtRatioAverage": 100
+  },
+  "prepayment": {
+    "totalPrepayment": 6304100,
+    "guaranteeRatio": 50,
+    "guaranteeInstitution": "국민은행",
+    "guaranteeType": "예치계약",
+    "guaranteeAmount": 3152050,
+    "guaranteeInstitutionDetail": "국민은행 태릉역 종합금융센터"
+  },
+  "source": {
+    "name": "공정거래위원회 선불식할부거래사업자 정보공개",
+    "url": "https://www.ftc.go.kr/www/selectBizPpitOpenList.do?key=250",
+    "asOfDate": "2026-07-22"
+  }
+}

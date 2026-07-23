@@ -1,0 +1,42 @@
+{
+  "name": "㈜우리관광",
+  "ceoNameMasked": "안 *  *",
+  "regNumber": "서울-2014-제142호",
+  "regDate": "2014-07-01",
+  "corpRegNumber": "1101114848086",
+  "bizRegNumber": "109-86-34553",
+  "corpAddress": "서울특별시 양천구 가로공원로 137",
+  "officeAddress": "상동",
+  "phone": "1644-9645",
+  "email": "woo********@naver.com",
+  "status": "정상영업",
+  "businessStartDate": "2012-04-19",
+  "finance": {
+    "currentAssets": 2521607571,
+    "fixedAssets": 17293351799,
+    "totalAssets": 19814959370,
+    "currentLiabilities": 119624217,
+    "nonCurrentLiabilities": 29717336620,
+    "totalLiabilities": 29836960837,
+    "totalEquity": -10022001467,
+    "capital": 1500000000,
+    "capitalStatus": "완전자본잠식",
+    "solvencyRatioCompany": 56,
+    "solvencyRatioAverage": 100,
+    "debtRatioCompany": 151,
+    "debtRatioAverage": 100
+  },
+  "prepayment": {
+    "totalPrepayment": 25280890000,
+    "guaranteeRatio": 50,
+    "guaranteeInstitution": "국민은행",
+    "guaranteeType": "예치계약",
+    "guaranteeAmount": 12657408368,
+    "guaranteeInstitutionDetail": "국민은행 신월동지점"
+  },
+  "source": {
+    "name": "공정거래위원회 선불식할부거래사업자 정보공개",
+    "url": "https://www.ftc.go.kr/www/selectBizPpitOpenList.do?key=250",
+    "asOfDate": "2026-07-22"
+  }
+}

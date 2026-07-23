@@ -1,0 +1,46 @@
+---
+import '../styles/global.css';
+
+interface Props {
+  title: string;
+  description?: string;
+  type?: "website" | "article";
+}
+const { title, description = "", type = "website" } = Astro.props;
+const canonicalURL = new URL(Astro.url.pathname, Astro.site);
+---
+<!doctype html>
+<html lang="ko">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description" content={description} />
+    <link rel="canonical" href={canonicalURL} />
+    <meta property="og:title" content={title} />
+    <meta property="og:description" content={description} />
+    <meta property="og:type" content={type} />
+    <meta property="og:url" content={canonicalURL} />
+    <meta property="og:locale" content="ko_KR" />
+    <title>{title}</title>
+  </head>
+  <body>
+    <div class="site-banner">
+      본 사이트는 공정거래위원회가 공개한 선불식 할부거래업체(상조업체) 등록·재무 정보를 정리해 제공하는 <strong>정보 제공 목적</strong>의 사이트이며, 투자·법률 자문이 아닙니다. 개별 업체에 대한 평가·순위가 아니라 공시 수치를 그대로 보여드립니다. 오류를 발견하셨다면 <a href="mailto:keiji960+mj04@gmail.com">keiji960+mj04@gmail.com</a>으로 알려주세요.
+    </div>
+    <header class="site-header">
+      <a href="/">상조업체 정보 비교</a>
+      <nav class="site-nav">
+        <a href="/companies/">전체 업체 비교표</a>
+      </nav>
+    </header>
+    <main class="site-container">
+      <slot />
+    </main>
+    <footer class="site-footer">
+      <p>데이터 출처: <a href="https://www.ftc.go.kr/www/selectBizPpitOpenList.do?key=250" target="_blank" rel="noopener">공정거래위원회 선불식할부거래사업자 정보공개</a></p>
+      <p>오류 신고·정정 요청: <a href="mailto:keiji960+mj04@gmail.com">keiji960+mj04@gmail.com</a></p>
+      <p><a href="/privacy/">개인정보처리방침</a></p>
+      <p>&copy; {new Date().getFullYear()} 상조업체 정보 비교</p>
+    </footer>
+  </body>
+</html>

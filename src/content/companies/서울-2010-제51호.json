@@ -1,0 +1,42 @@
+{
+  "name": "㈜교원라이프[구.㈜케이더블유앤라이프]",
+  "ceoNameMasked": "장 *  *",
+  "regNumber": "서울-2010-제51호",
+  "regDate": "2010-11-23",
+  "corpRegNumber": "1101114430833",
+  "bizRegNumber": "104-86-30469",
+  "corpAddress": "서울특별시 중구 을지로 51",
+  "officeAddress": "서울특별시 중구 을지로 51",
+  "phone": "1588-0060",
+  "email": "kyo*******@kyowon.co.kr",
+  "status": "정상영업",
+  "businessStartDate": "2010-09-08",
+  "finance": {
+    "currentAssets": 569581384252,
+    "fixedAssets": 1259012049208,
+    "totalAssets": 1828593433460,
+    "currentLiabilities": 94393700768,
+    "nonCurrentLiabilities": 1659988705779,
+    "totalLiabilities": 1754382406547,
+    "totalEquity": 74211026913,
+    "capital": 5975000000,
+    "capitalStatus": "정상",
+    "solvencyRatioCompany": 104,
+    "solvencyRatioAverage": 100,
+    "debtRatioCompany": 96,
+    "debtRatioAverage": 100
+  },
+  "prepayment": {
+    "totalPrepayment": 1736893260642,
+    "guaranteeRatio": 53,
+    "guaranteeInstitution": "하나은행/수협은행/우리은행/신한은행",
+    "guaranteeType": "지급보증/지급보증/지급보증/지급보증/예치",
+    "guaranteeAmount": null,
+    "guaranteeInstitutionDetail": "신한은행 기업영업부, 하나은행 상공회의소지점, 수협은행 중부기업금융본부, 우리은행 한화기업영업지원팀"
+  },
+  "source": {
+    "name": "공정거래위원회 선불식할부거래사업자 정보공개",
+    "url": "https://www.ftc.go.kr/www/selectBizPpitOpenList.do?key=250",
+    "asOfDate": "2026-07-22"
+  }
+}

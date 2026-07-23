@@ -1,0 +1,42 @@
+{
+  "name": "하늘문(주)",
+  "ceoNameMasked": "김 *  *",
+  "regNumber": "경기(2)-2010-01호",
+  "regDate": "2010-11-08",
+  "corpRegNumber": "2811110122983",
+  "bizRegNumber": "128-86-18777",
+  "corpAddress": "경기도 고양시 덕양구 보광로106번길 46",
+  "officeAddress": "상 동",
+  "phone": "031-962-7579",
+  "email": "yun***@nate.com",
+  "status": "정상영업",
+  "businessStartDate": "2007-01-26",
+  "finance": {
+    "currentAssets": 7344694398,
+    "fixedAssets": 18521543588,
+    "totalAssets": 25866237986,
+    "currentLiabilities": 7892759893,
+    "nonCurrentLiabilities": 8338052983,
+    "totalLiabilities": 16230812876,
+    "totalEquity": 9635425110,
+    "capital": 1500000000,
+    "capitalStatus": "정상",
+    "solvencyRatioCompany": 1852,
+    "solvencyRatioAverage": 100,
+    "debtRatioCompany": 63,
+    "debtRatioAverage": 100
+  },
+  "prepayment": {
+    "totalPrepayment": 532777000,
+    "guaranteeRatio": 61,
+    "guaranteeInstitution": "우리은행",
+    "guaranteeType": "예치계약",
+    "guaranteeAmount": 322543850,
+    "guaranteeInstitutionDetail": "우리은행(원당지점)"
+  },
+  "source": {
+    "name": "공정거래위원회 선불식할부거래사업자 정보공개",
+    "url": "https://www.ftc.go.kr/www/selectBizPpitOpenList.do?key=250",
+    "asOfDate": "2026-07-22"
+  }
+}

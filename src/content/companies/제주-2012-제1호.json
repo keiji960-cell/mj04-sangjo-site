@@ -1,0 +1,42 @@
+{
+  "name": "우리제주상조(주)",
+  "ceoNameMasked": "한 *  *",
+  "regNumber": "제주-2012-제1호",
+  "regDate": "2012-01-18",
+  "corpRegNumber": "2201110088576",
+  "bizRegNumber": "616-81-91950",
+  "corpAddress": "제주특별자치도 제주시 승천로 62",
+  "officeAddress": "상동",
+  "phone": "1899-3412",
+  "email": "hel*@woorijeju-sangjo.co.kr",
+  "status": "정상영업",
+  "businessStartDate": "2012-02-01",
+  "finance": {
+    "currentAssets": 4086170001,
+    "fixedAssets": 16805643181,
+    "totalAssets": 20891813182,
+    "currentLiabilities": 132787546,
+    "nonCurrentLiabilities": 20156500010,
+    "totalLiabilities": 20289287556,
+    "totalEquity": 602525626,
+    "capital": 1510000000,
+    "capitalStatus": "부분자본잠식",
+    "solvencyRatioCompany": 102,
+    "solvencyRatioAverage": 100,
+    "debtRatioCompany": 97,
+    "debtRatioAverage": 100
+  },
+  "prepayment": {
+    "totalPrepayment": 19403776650,
+    "guaranteeRatio": 52,
+    "guaranteeInstitution": "우리은행",
+    "guaranteeType": "예치계약",
+    "guaranteeAmount": 10070633961,
+    "guaranteeInstitutionDetail": "우리은행 제주지점"
+  },
+  "source": {
+    "name": "공정거래위원회 선불식할부거래사업자 정보공개",
+    "url": "https://www.ftc.go.kr/www/selectBizPpitOpenList.do?key=250",
+    "asOfDate": "2026-07-22"
+  }
+}

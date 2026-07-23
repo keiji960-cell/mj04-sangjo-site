@@ -1,0 +1,42 @@
+{
+  "name": "(주)더라이프",
+  "ceoNameMasked": "배 *  *",
+  "regNumber": "부산 2024-01호",
+  "regDate": "2024-05-10",
+  "corpRegNumber": "1801111408550",
+  "bizRegNumber": "347-87-02382",
+  "corpAddress": "부산광역시 부산진구 중앙대로 632",
+  "officeAddress": "상동",
+  "phone": "051-714-4541",
+  "email": "gii***@hanmail.net",
+  "status": "정상영업",
+  "businessStartDate": "2024-04-09",
+  "finance": {
+    "currentAssets": 1234335684,
+    "fixedAssets": 27448590,
+    "totalAssets": 1261784274,
+    "currentLiabilities": 0,
+    "nonCurrentLiabilities": 0,
+    "totalLiabilities": 0,
+    "totalEquity": 1261784274,
+    "capital": 1500000000,
+    "capitalStatus": "부분자본잠식",
+    "solvencyRatioCompany": null,
+    "solvencyRatioAverage": 100,
+    "debtRatioCompany": 0,
+    "debtRatioAverage": 100
+  },
+  "prepayment": {
+    "totalPrepayment": 0,
+    "guaranteeRatio": 0,
+    "guaranteeInstitution": "부산은행",
+    "guaranteeType": "예치계약",
+    "guaranteeAmount": 0,
+    "guaranteeInstitutionDetail": null
+  },
+  "source": {
+    "name": "공정거래위원회 선불식할부거래사업자 정보공개",
+    "url": "https://www.ftc.go.kr/www/selectBizPpitOpenList.do?key=250",
+    "asOfDate": "2026-07-22"
+  }
+}

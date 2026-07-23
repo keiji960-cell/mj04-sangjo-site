@@ -1,0 +1,42 @@
+{
+  "name": "제주일출상조㈜",
+  "ceoNameMasked": "정 *  *",
+  "regNumber": "제주-2010-제1호",
+  "regDate": "2011-06-01",
+  "corpRegNumber": "2201110076860",
+  "bizRegNumber": "616-81-79067",
+  "corpAddress": "제주특별자치도 제주시 남광로 65",
+  "officeAddress": "제주특별자치도 제주시 남광로 65",
+  "phone": "1588-9334",
+  "email": "ill*********@naver.com",
+  "status": "정상영업",
+  "businessStartDate": "2011-06-01",
+  "finance": {
+    "currentAssets": 1705299910,
+    "fixedAssets": 297423613,
+    "totalAssets": 2002723523,
+    "currentLiabilities": 626861287,
+    "nonCurrentLiabilities": 69151472,
+    "totalLiabilities": 696012759,
+    "totalEquity": 1306710764,
+    "capital": 1500000000,
+    "capitalStatus": "부분자본잠식",
+    "solvencyRatioCompany": 390,
+    "solvencyRatioAverage": 100,
+    "debtRatioCompany": 35,
+    "debtRatioAverage": 100
+  },
+  "prepayment": {
+    "totalPrepayment": 439791000,
+    "guaranteeRatio": 63,
+    "guaranteeInstitution": "신한은행",
+    "guaranteeType": "예치계약",
+    "guaranteeAmount": 275911884,
+    "guaranteeInstitutionDetail": "신한은행 제주지점"
+  },
+  "source": {
+    "name": "공정거래위원회 선불식할부거래사업자 정보공개",
+    "url": "https://www.ftc.go.kr/www/selectBizPpitOpenList.do?key=250",
+    "asOfDate": "2026-07-22"
+  }
+}

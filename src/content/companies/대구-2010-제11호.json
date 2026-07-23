@@ -1,0 +1,42 @@
+{
+  "name": "다나상조(주)",
+  "ceoNameMasked": "김 *  *",
+  "regNumber": "대구-2010-제11호",
+  "regDate": "2010-12-10",
+  "corpRegNumber": "1701110331041",
+  "bizRegNumber": "503-81-76027",
+  "corpAddress": "대구광역시 달서구 달구벌대로 1678",
+  "officeAddress": "대구광역시 달서구 달구벌대로 1678",
+  "phone": "1588-3145",
+  "email": "dhy******@naver.com",
+  "status": "정상영업",
+  "businessStartDate": "2007-05-01",
+  "finance": {
+    "currentAssets": 2461079923,
+    "fixedAssets": 31169684394,
+    "totalAssets": 33630764317,
+    "currentLiabilities": 578759156,
+    "nonCurrentLiabilities": 32553393034,
+    "totalLiabilities": 33132152190,
+    "totalEquity": 498612127,
+    "capital": 1500000000,
+    "capitalStatus": "부분자본잠식",
+    "solvencyRatioCompany": 102,
+    "solvencyRatioAverage": 100,
+    "debtRatioCompany": 99,
+    "debtRatioAverage": 100
+  },
+  "prepayment": {
+    "totalPrepayment": 17723541500,
+    "guaranteeRatio": 50,
+    "guaranteeInstitution": "한국상조공제조합/한국상조공제조합",
+    "guaranteeType": "공제계약(여행상품)/공제계약(상조상품)",
+    "guaranteeAmount": null,
+    "guaranteeInstitutionDetail": "한국상조공제조합"
+  },
+  "source": {
+    "name": "공정거래위원회 선불식할부거래사업자 정보공개",
+    "url": "https://www.ftc.go.kr/www/selectBizPpitOpenList.do?key=250",
+    "asOfDate": "2026-07-22"
+  }
+}

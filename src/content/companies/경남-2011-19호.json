@@ -1,0 +1,42 @@
+{
+  "name": "(주)바라밀굿라이프[구.비손라이프(주)]",
+  "ceoNameMasked": "박 *  *  *  *  *  *  *",
+  "regNumber": "경남-2011-19호",
+  "regDate": "2011-03-17",
+  "corpRegNumber": "1942110075615",
+  "bizRegNumber": "609-81-69784",
+  "corpAddress": "경상남도 창원시 의창구 용지로 151",
+  "officeAddress": "경상남도 창원시 의창구 용지로 151",
+  "phone": "1644-0108",
+  "email": "gyo******@hanmail.net",
+  "status": "정상영업",
+  "businessStartDate": "2005-10-04",
+  "finance": {
+    "currentAssets": 1270065155,
+    "fixedAssets": 38075743,
+    "totalAssets": 1308140898,
+    "currentLiabilities": 611680841,
+    "nonCurrentLiabilities": 33750000,
+    "totalLiabilities": 645430841,
+    "totalEquity": 662710057,
+    "capital": 1500000000,
+    "capitalStatus": "부분자본잠식",
+    "solvencyRatioCompany": 212,
+    "solvencyRatioAverage": 100,
+    "debtRatioCompany": 49,
+    "debtRatioAverage": 100
+  },
+  "prepayment": {
+    "totalPrepayment": 316966000,
+    "guaranteeRatio": 50,
+    "guaranteeInstitution": "우리은행",
+    "guaranteeType": "예치계약",
+    "guaranteeAmount": 158483000,
+    "guaranteeInstitutionDetail": "우리은행(창원지점)"
+  },
+  "source": {
+    "name": "공정거래위원회 선불식할부거래사업자 정보공개",
+    "url": "https://www.ftc.go.kr/www/selectBizPpitOpenList.do?key=250",
+    "asOfDate": "2026-07-22"
+  }
+}

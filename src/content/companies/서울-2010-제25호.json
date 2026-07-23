@@ -1,0 +1,42 @@
+{
+  "name": "(주)삼육리더스라이프[구.(주)삼육리더스상조]",
+  "ceoNameMasked": "양 *  *",
+  "regNumber": "서울-2010-제25호",
+  "regDate": "2010-10-11",
+  "corpRegNumber": "1101114423945",
+  "bizRegNumber": "204-86-22857",
+  "corpAddress": "서울특별시 동대문구 망우로 82",
+  "officeAddress": "서울특별시 동대문구 망우로 82",
+  "phone": "1800-3636",
+  "email": "sda****@daum.net",
+  "status": "정상영업",
+  "businessStartDate": "2008-01-21",
+  "finance": {
+    "currentAssets": 4368660518,
+    "fixedAssets": 14721985014,
+    "totalAssets": 19090645532,
+    "currentLiabilities": 13841726769,
+    "nonCurrentLiabilities": 116847370,
+    "totalLiabilities": 13958574139,
+    "totalEquity": 5132071393,
+    "capital": 1500000000,
+    "capitalStatus": "정상",
+    "solvencyRatioCompany": 137,
+    "solvencyRatioAverage": 100,
+    "debtRatioCompany": 73,
+    "debtRatioAverage": 100
+  },
+  "prepayment": {
+    "totalPrepayment": 13631333000,
+    "guaranteeRatio": 52,
+    "guaranteeInstitution": "우리은행",
+    "guaranteeType": "예치계약",
+    "guaranteeAmount": 7036765455,
+    "guaranteeInstitutionDetail": "우리은행 중랑교금융센터"
+  },
+  "source": {
+    "name": "공정거래위원회 선불식할부거래사업자 정보공개",
+    "url": "https://www.ftc.go.kr/www/selectBizPpitOpenList.do?key=250",
+    "asOfDate": "2026-07-22"
+  }
+}

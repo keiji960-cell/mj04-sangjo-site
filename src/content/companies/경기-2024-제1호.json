@@ -1,0 +1,42 @@
+{
+  "name": "(주)대노복지단",
+  "ceoNameMasked": "김 *  *",
+  "regNumber": "경기-2024-제1호",
+  "regDate": "2023-02-06",
+  "corpRegNumber": "1101114155944",
+  "bizRegNumber": "106-86-66454",
+  "corpAddress": "경기도 부천시 원미구 역곡로13번길 17",
+  "officeAddress": null,
+  "phone": "1522-3527",
+  "email": "ama************@koreapeople.net",
+  "status": "정상영업",
+  "businessStartDate": null,
+  "finance": {
+    "currentAssets": 303388606,
+    "fixedAssets": 857994214,
+    "totalAssets": 1161382820,
+    "currentLiabilities": 538201292,
+    "nonCurrentLiabilities": 2888469831,
+    "totalLiabilities": 3426671123,
+    "totalEquity": -2265288303,
+    "capital": 1500000000,
+    "capitalStatus": "완전자본잠식",
+    "solvencyRatioCompany": 21,
+    "solvencyRatioAverage": 100,
+    "debtRatioCompany": 295,
+    "debtRatioAverage": 100
+  },
+  "prepayment": {
+    "totalPrepayment": 202652600,
+    "guaranteeRatio": 50,
+    "guaranteeInstitution": "상조보증공제조합",
+    "guaranteeType": "공제계약",
+    "guaranteeAmount": 101326300,
+    "guaranteeInstitutionDetail": "상조보증공제조합"
+  },
+  "source": {
+    "name": "공정거래위원회 선불식할부거래사업자 정보공개",
+    "url": "https://www.ftc.go.kr/www/selectBizPpitOpenList.do?key=250",
+    "asOfDate": "2026-07-22"
+  }
+}

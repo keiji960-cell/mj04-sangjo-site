@@ -1,0 +1,42 @@
+{
+  "name": "(주)평화누리",
+  "ceoNameMasked": "천 *  *",
+  "regNumber": "서울-2018-162",
+  "regDate": "2018-06-19",
+  "corpRegNumber": "1101116769397",
+  "bizRegNumber": "813-88-01058",
+  "corpAddress": "서울특별시 서초구 반포대로 22",
+  "officeAddress": "서울특별시 서초구 반포대로 22",
+  "phone": "02-2258-8403",
+  "email": "phd**@cef.or.kr",
+  "status": "정상영업",
+  "businessStartDate": "2018-06-11",
+  "finance": {
+    "currentAssets": 42930091408,
+    "fixedAssets": 97645445181,
+    "totalAssets": 140575536589,
+    "currentLiabilities": 3277773364,
+    "nonCurrentLiabilities": 108477519389,
+    "totalLiabilities": 111755292753,
+    "totalEquity": 28820243836,
+    "capital": 10000000000,
+    "capitalStatus": "정상",
+    "solvencyRatioCompany": 126,
+    "solvencyRatioAverage": 100,
+    "debtRatioCompany": 79,
+    "debtRatioAverage": 100
+  },
+  "prepayment": {
+    "totalPrepayment": 108733124238,
+    "guaranteeRatio": 51,
+    "guaranteeInstitution": "우리은행",
+    "guaranteeType": "예치계약",
+    "guaranteeAmount": 55660822755,
+    "guaranteeInstitutionDetail": "우리은행 서초남지점"
+  },
+  "source": {
+    "name": "공정거래위원회 선불식할부거래사업자 정보공개",
+    "url": "https://www.ftc.go.kr/www/selectBizPpitOpenList.do?key=250",
+    "asOfDate": "2026-07-22"
+  }
+}

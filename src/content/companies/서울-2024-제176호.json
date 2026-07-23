@@ -1,0 +1,42 @@
+{
+  "name": "코웨이라이프솔루션(주)",
+  "ceoNameMasked": "김 *  *",
+  "regNumber": "서울-2024-제176호",
+  "regDate": "2024-10-24",
+  "corpRegNumber": "1101119067516",
+  "bizRegNumber": "111-88-03173",
+  "corpAddress": "서울특별시 구로구 디지털로26길 38",
+  "officeAddress": null,
+  "phone": "1588-1425",
+  "email": "com****@cowayls.com",
+  "status": "정상영업",
+  "businessStartDate": null,
+  "finance": {
+    "currentAssets": 6987706992,
+    "fixedAssets": 8905591748,
+    "totalAssets": 15893298740,
+    "currentLiabilities": 5393215428,
+    "nonCurrentLiabilities": 4563830676,
+    "totalLiabilities": 9957046104,
+    "totalEquity": 5936252636,
+    "capital": 1500000000,
+    "capitalStatus": "정상",
+    "solvencyRatioCompany": 255,
+    "solvencyRatioAverage": 100,
+    "debtRatioCompany": 63,
+    "debtRatioAverage": 100
+  },
+  "prepayment": {
+    "totalPrepayment": 6096663300,
+    "guaranteeRatio": 66,
+    "guaranteeInstitution": "우리은행",
+    "guaranteeType": "채무지급보증계약",
+    "guaranteeAmount": 4000000000,
+    "guaranteeInstitutionDetail": "우리은행 동대문금융센터"
+  },
+  "source": {
+    "name": "공정거래위원회 선불식할부거래사업자 정보공개",
+    "url": "https://www.ftc.go.kr/www/selectBizPpitOpenList.do?key=250",
+    "asOfDate": "2026-07-22"
+  }
+}

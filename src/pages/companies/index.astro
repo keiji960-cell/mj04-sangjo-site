@@ -1,0 +1,68 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import { getCollection } from 'astro:content';
+
+const companies = await getCollection('companies');
+
+const fmtWon = (n: number | null) => (n === null ? '-' : `${n.toLocaleString('ko-KR')}원`);
+const fmtPct = (n: number | null) => (n === null ? '-' : `${n}%`);
+
+const severity = (status: string) => (status === '완전자본잠식' ? 0 : status === '부분자본잠식' ? 1 : 2);
+
+const rows = companies
+  .map((c) => c.data)
+  .sort((a, b) => {
+    const s = severity(a.finance.capitalStatus) - severity(b.finance.capitalStatus);
+    if (s !== 0) return s;
+    return a.name.localeCompare(b.name, 'ko-KR');
+  });
+
+const asOfDate = rows[0]?.source.asOfDate ?? '';
+const fullErosion = rows.filter((r) => r.finance.capitalStatus === '완전자본잠식').length;
+const partialErosion = rows.filter((r) => r.finance.capitalStatus === '부분자본잠식').length;
+
+const badgeClass = (status: string) =>
+  status === '완전자본잠식' ? 'badge-full' : status === '부분자본잠식' ? 'badge-partial' : 'badge-normal';
+---
+<Layout title={`정상영업 상조업체 ${rows.length}곳 등록·재무 정보 전체 비교`} description="공정거래위원회에 정상영업으로 등록된 전체 상조(선불식 할부거래)업체의 등록정보·재무현황·선수금현황을 원본 공시 그대로 정리했습니다.">
+  <article class="companies-page">
+    <p class="article-meta">공정거래위원회 공시 기준 · 조회일 {asOfDate}</p>
+    <h1>정상영업 중인 상조업체 {rows.length}곳 재무·선수금 현황</h1>
+    <p class="disclaimer">
+      이 표는 공정거래위원회 "선불식할부거래사업자 정보공개" 원본 데이터를 그대로 옮긴 것이며, 어떤 업체가 "좋다/나쁘다"는 자체 평가나 순위를 매긴 것이 아닙니다.
+      <strong>자본잠식 여부</strong>는 공시된 자산총계·부채총계·자본금 수치로 <code>자본총계 = 자산총계 − 부채총계</code>를 계산해, 자본총계가 0 미만이면 완전자본잠식, 0 이상이지만 자본금보다 작으면 부분자본잠식으로 표시한 것으로, 회계상 정의를 그대로 적용한 결과입니다. 판단은 확인하신 분의 몫입니다.
+    </p>
+    <p>총 {rows.length}개 업체 중 <strong>완전자본잠식 {fullErosion}곳</strong>, <strong>부분자본잠식 {partialErosion}곳</strong>입니다. 업체명을 클릭하면 상세 공시 항목을 모두 볼 수 있습니다.</p>
+
+    <div class="table-scroll">
+      <table>
+        <thead>
+          <tr>
+            <th>업체명</th>
+            <th>등록번호</th>
+            <th>자본총계</th>
+            <th>자본잠식 상태</th>
+            <th>총선수금</th>
+            <th>선수금 보전비율</th>
+          </tr>
+        </thead>
+        <tbody>
+          {rows.map((c) => (
+            <tr class={c.finance.capitalStatus !== '정상' ? 'row-warning' : ''}>
+              <td><a href={`/companies/${c.regNumber.replace(/[^\w가-힣]+/g, '-').replace(/^-+|-+$/g, '')}/`}>{c.name}</a></td>
+              <td>{c.regNumber}</td>
+              <td>{fmtWon(c.finance.totalEquity)}</td>
+              <td><span class={`badge ${badgeClass(c.finance.capitalStatus)}`}>{c.finance.capitalStatus}</span></td>
+              <td>{fmtWon(c.prepayment.totalPrepayment)}</td>
+              <td>{fmtPct(c.prepayment.guaranteeRatio)}</td>
+            </tr>
+          ))}
+        </tbody>
+      </table>
+    </div>
+
+    <p class="disclaimer">
+      원본 데이터: <a href="https://www.ftc.go.kr/www/selectBizPpitOpenList.do?key=250" target="_blank" rel="noopener">공정거래위원회 선불식할부거래사업자 정보공개</a> ({asOfDate} 조회). 공정위 공시는 분기 단위로 갱신되며, 이 페이지도 이후 갱신 시점에 맞춰 재수집합니다. 최신 정보는 반드시 공정위 원문에서 다시 확인하세요. 오류를 발견하셨다면 <a href="mailto:keiji960+mj04@gmail.com">keiji960+mj04@gmail.com</a>으로 알려주세요.
+    </p>
+  </article>
+</Layout>

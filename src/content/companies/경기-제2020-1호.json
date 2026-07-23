@@ -1,0 +1,42 @@
+{
+  "name": "(주)용인공원라이프[구,㈜예온]",
+  "ceoNameMasked": "김 *  *",
+  "regNumber": "경기 제2020-1호",
+  "regDate": "2010-10-01",
+  "corpRegNumber": "1101114420024",
+  "bizRegNumber": "220-88-04156",
+  "corpAddress": "경기도 안양시 동안구 동편로20번길 9",
+  "officeAddress": "경기도 안양시 동안구 동편로20번길 9",
+  "phone": "02-575-9229",
+  "email": "ypl****@yonginparklife.com",
+  "status": "정상영업",
+  "businessStartDate": "2010-09-01",
+  "finance": {
+    "currentAssets": 3605655149,
+    "fixedAssets": 6691301797,
+    "totalAssets": 10296956946,
+    "currentLiabilities": 578399810,
+    "nonCurrentLiabilities": 29330878737,
+    "totalLiabilities": 29909278547,
+    "totalEquity": -19612321601,
+    "capital": 1590000000,
+    "capitalStatus": "완전자본잠식",
+    "solvencyRatioCompany": 30,
+    "solvencyRatioAverage": 100,
+    "debtRatioCompany": 290,
+    "debtRatioAverage": 100
+  },
+  "prepayment": {
+    "totalPrepayment": 27828695700,
+    "guaranteeRatio": 50,
+    "guaranteeInstitution": "상조보증공제조합",
+    "guaranteeType": "공제계약",
+    "guaranteeAmount": 13914347850,
+    "guaranteeInstitutionDetail": "상조보증공제조합"
+  },
+  "source": {
+    "name": "공정거래위원회 선불식할부거래사업자 정보공개",
+    "url": "https://www.ftc.go.kr/www/selectBizPpitOpenList.do?key=250",
+    "asOfDate": "2026-07-22"
+  }
+}

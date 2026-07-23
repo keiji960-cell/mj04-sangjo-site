@@ -1,0 +1,42 @@
+{
+  "name": "(주)경우라이프[구,(주)경우상조]",
+  "ceoNameMasked": "김 *  *",
+  "regNumber": "서울 2011-제66호",
+  "regDate": "2011-01-05",
+  "corpRegNumber": "1101114238021",
+  "bizRegNumber": "201-86-13591",
+  "corpAddress": "서울특별시 송파구 중대로 130",
+  "officeAddress": "서울특별시 송파구 중대로 130",
+  "phone": "1588-4314",
+  "email": "adm**@kwlife.co.kr",
+  "status": "정상영업",
+  "businessStartDate": "2009-12-09",
+  "finance": {
+    "currentAssets": 2994997222,
+    "fixedAssets": 68817281713,
+    "totalAssets": 71812278935,
+    "currentLiabilities": 297590570,
+    "nonCurrentLiabilities": 73641576220,
+    "totalLiabilities": 73939166790,
+    "totalEquity": -2126887855,
+    "capital": 1500000000,
+    "capitalStatus": "완전자본잠식",
+    "solvencyRatioCompany": 97,
+    "solvencyRatioAverage": 100,
+    "debtRatioCompany": 103,
+    "debtRatioAverage": 100
+  },
+  "prepayment": {
+    "totalPrepayment": 75269363430,
+    "guaranteeRatio": 50,
+    "guaranteeInstitution": "국민은행",
+    "guaranteeType": "예치계약",
+    "guaranteeAmount": 37966656709,
+    "guaranteeInstitutionDetail": "국민은행 양재남지점"
+  },
+  "source": {
+    "name": "공정거래위원회 선불식할부거래사업자 정보공개",
+    "url": "https://www.ftc.go.kr/www/selectBizPpitOpenList.do?key=250",
+    "asOfDate": "2026-07-22"
+  }
+}

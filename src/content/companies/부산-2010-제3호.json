@@ -1,0 +1,42 @@
+{
+  "name": "늘곁애라이프온(주)[구.라이프온(주),구.부산상조(주)]",
+  "ceoNameMasked": "조 *  *",
+  "regNumber": "부산-2010-제3호",
+  "regDate": "2010-10-15",
+  "corpRegNumber": "1801110043917",
+  "bizRegNumber": "604-81-04641",
+  "corpAddress": "부산광역시 연제구 중앙대로 1066",
+  "officeAddress": "부산광역시 연제구 중앙대로 1066",
+  "phone": "1577-6250",
+  "email": "san***@aidclub.com",
+  "status": "정상영업",
+  "businessStartDate": "1982-04-16",
+  "finance": {
+    "currentAssets": 63008366484,
+    "fixedAssets": 74561422553,
+    "totalAssets": 137569789037,
+    "currentLiabilities": 4817062652,
+    "nonCurrentLiabilities": 123837818695,
+    "totalLiabilities": 128654881347,
+    "totalEquity": 8914907690,
+    "capital": 1500030000,
+    "capitalStatus": "정상",
+    "solvencyRatioCompany": 107,
+    "solvencyRatioAverage": 100,
+    "debtRatioCompany": 94,
+    "debtRatioAverage": 100
+  },
+  "prepayment": {
+    "totalPrepayment": 124544298330,
+    "guaranteeRatio": 50,
+    "guaranteeInstitution": "부산은행/신한은행",
+    "guaranteeType": "지급보증/지급보증",
+    "guaranteeAmount": null,
+    "guaranteeInstitutionDetail": "부산은행 연산동지점, 신한은행 서부산유통단지BC"
+  },
+  "source": {
+    "name": "공정거래위원회 선불식할부거래사업자 정보공개",
+    "url": "https://www.ftc.go.kr/www/selectBizPpitOpenList.do?key=250",
+    "asOfDate": "2026-07-22"
+  }
+}

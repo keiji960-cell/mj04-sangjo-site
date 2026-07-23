@@ -1,0 +1,42 @@
+{
+  "name": "(주)대한라이프보증",
+  "ceoNameMasked": "엄 *  *",
+  "regNumber": "경기-2012-01호",
+  "regDate": "2012-06-18",
+  "corpRegNumber": "1101113292911",
+  "bizRegNumber": "212-81-72877",
+  "corpAddress": "경기도 성남시 분당구 대왕판교로 670",
+  "officeAddress": "경기도 성남시 분당구 대왕판교로 670",
+  "phone": "1577-2155",
+  "email": "dhl*******@naver.com",
+  "status": "정상영업",
+  "businessStartDate": "2005-08-25",
+  "finance": {
+    "currentAssets": 1178769323,
+    "fixedAssets": 14251750384,
+    "totalAssets": 15430519707,
+    "currentLiabilities": 1066560874,
+    "nonCurrentLiabilities": 20438801500,
+    "totalLiabilities": 21505362374,
+    "totalEquity": -6074842667,
+    "capital": 1500000000,
+    "capitalStatus": "완전자본잠식",
+    "solvencyRatioCompany": 70,
+    "solvencyRatioAverage": 100,
+    "debtRatioCompany": 139,
+    "debtRatioAverage": 100
+  },
+  "prepayment": {
+    "totalPrepayment": 20091499900,
+    "guaranteeRatio": 50,
+    "guaranteeInstitution": "상조보증공제조합",
+    "guaranteeType": "공제계약",
+    "guaranteeAmount": 10045749950,
+    "guaranteeInstitutionDetail": "상조보증공제조합"
+  },
+  "source": {
+    "name": "공정거래위원회 선불식할부거래사업자 정보공개",
+    "url": "https://www.ftc.go.kr/www/selectBizPpitOpenList.do?key=250",
+    "asOfDate": "2026-07-22"
+  }
+}

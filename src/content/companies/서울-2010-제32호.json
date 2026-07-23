@@ -1,0 +1,42 @@
+{
+  "name": "보람상조개발(주)",
+  "ceoNameMasked": "오 *  *  *  *  *  *  *  *  *  *  *  *",
+  "regNumber": "서울-2010-제32호",
+  "regDate": "2010-10-15",
+  "corpRegNumber": "1801110121060",
+  "bizRegNumber": "604-81-31279",
+  "corpAddress": "서울특별시 중구 세종대로 73",
+  "officeAddress": "서울특별시 중구 세종대로 73",
+  "phone": "1588-7979",
+  "email": "bor******@boram.com",
+  "status": "정상영업",
+  "businessStartDate": "1992-01-01",
+  "finance": {
+    "currentAssets": 112822638428,
+    "fixedAssets": 501702144987,
+    "totalAssets": 614524783415,
+    "currentLiabilities": 40607352669,
+    "nonCurrentLiabilities": 489606927011,
+    "totalLiabilities": 530214279680,
+    "totalEquity": 84310503735,
+    "capital": 1500000000,
+    "capitalStatus": "정상",
+    "solvencyRatioCompany": 118,
+    "solvencyRatioAverage": 100,
+    "debtRatioCompany": 86,
+    "debtRatioAverage": 100
+  },
+  "prepayment": {
+    "totalPrepayment": 456284830729,
+    "guaranteeRatio": 50,
+    "guaranteeInstitution": "한국상조공제조합",
+    "guaranteeType": "공제계약",
+    "guaranteeAmount": 228142415365,
+    "guaranteeInstitutionDetail": "한국상조공제조합"
+  },
+  "source": {
+    "name": "공정거래위원회 선불식할부거래사업자 정보공개",
+    "url": "https://www.ftc.go.kr/www/selectBizPpitOpenList.do?key=250",
+    "asOfDate": "2026-07-22"
+  }
+}

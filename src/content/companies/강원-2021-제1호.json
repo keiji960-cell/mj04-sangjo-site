@@ -1,0 +1,42 @@
+{
+  "name": "(주)소노스테이션(구.(주)대명스테이션(주)대명라이프웨이, 기안라이프웨이)",
+  "ceoNameMasked": "최 *  *",
+  "regNumber": "강원-2021-제1호",
+  "regDate": "2010-12-24",
+  "corpRegNumber": "1101114488816",
+  "bizRegNumber": "220-88-09321",
+  "corpAddress": "강원도 홍천군 서면 한치골길 262",
+  "officeAddress": "강원도 홍천군 서면 한치골길 262",
+  "phone": "1588-8511",
+  "email": "imr****@daemyungsono.com",
+  "status": "정상영업",
+  "businessStartDate": "2010-12-10",
+  "finance": {
+    "currentAssets": 274777407273,
+    "fixedAssets": 1010125708600,
+    "totalAssets": 1284903115873,
+    "currentLiabilities": 22391330239,
+    "nonCurrentLiabilities": 1485327582875,
+    "totalLiabilities": 1507718913114,
+    "totalEquity": -222815797241,
+    "capital": 10000000000,
+    "capitalStatus": "완전자본잠식",
+    "solvencyRatioCompany": 84,
+    "solvencyRatioAverage": 100,
+    "debtRatioCompany": 117,
+    "debtRatioAverage": 100
+  },
+  "prepayment": {
+    "totalPrepayment": 1475626132182,
+    "guaranteeRatio": 50,
+    "guaranteeInstitution": "상조보증공제조합/sh수협은행",
+    "guaranteeType": "공제계약/지급보증",
+    "guaranteeAmount": null,
+    "guaranteeInstitutionDetail": "상조보증공제조합, sh수협은행 영등포금융센터"
+  },
+  "source": {
+    "name": "공정거래위원회 선불식할부거래사업자 정보공개",
+    "url": "https://www.ftc.go.kr/www/selectBizPpitOpenList.do?key=250",
+    "asOfDate": "2026-07-22"
+  }
+}

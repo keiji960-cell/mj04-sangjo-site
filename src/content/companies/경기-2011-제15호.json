@@ -1,0 +1,42 @@
+{
+  "name": "㈜다온플랜",
+  "ceoNameMasked": "김 *  *",
+  "regNumber": "경기-2011-제15호",
+  "regDate": "2011-05-27",
+  "corpRegNumber": "1311110278597",
+  "bizRegNumber": "129-86-58694",
+  "corpAddress": "경기도 성남시 분당구 불정로 90",
+  "officeAddress": "경기도 성남시 분당구 불정로 90",
+  "phone": "1577-1555",
+  "email": "ktt***@kt.com",
+  "status": "정상영업",
+  "businessStartDate": "2011-04-01",
+  "finance": {
+    "currentAssets": 39476751525,
+    "fixedAssets": 32629241942,
+    "totalAssets": 72105993467,
+    "currentLiabilities": 64505730918,
+    "nonCurrentLiabilities": 49024650,
+    "totalLiabilities": 64554755568,
+    "totalEquity": 7551237899,
+    "capital": 1500000000,
+    "capitalStatus": "정상",
+    "solvencyRatioCompany": 111,
+    "solvencyRatioAverage": 100,
+    "debtRatioCompany": 90,
+    "debtRatioAverage": 100
+  },
+  "prepayment": {
+    "totalPrepayment": 64753125000,
+    "guaranteeRatio": 50,
+    "guaranteeInstitution": "국민은행",
+    "guaranteeType": "예치계약",
+    "guaranteeAmount": 32376562500,
+    "guaranteeInstitutionDetail": "국민은행 분당백궁지점"
+  },
+  "source": {
+    "name": "공정거래위원회 선불식할부거래사업자 정보공개",
+    "url": "https://www.ftc.go.kr/www/selectBizPpitOpenList.do?key=250",
+    "asOfDate": "2026-07-22"
+  }
+}

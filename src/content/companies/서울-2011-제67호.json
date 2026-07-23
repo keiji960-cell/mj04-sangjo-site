@@ -1,0 +1,42 @@
+{
+  "name": "보람상조리더스(주) [구,보람재향상조(주), (주)재향군인회상조회, 주식회사향군가족]",
+  "ceoNameMasked": "오 *  *  *  *  *  *  *",
+  "regNumber": "서울-2011-제67호",
+  "regDate": "2011-01-05",
+  "corpRegNumber": "1101113352690",
+  "bizRegNumber": "215-86-78803",
+  "corpAddress": "서울특별시 중구 세종대로 73",
+  "officeAddress": "서울특별시 중구 세종대로 73",
+  "phone": "1588-7979",
+  "email": "bor******@boram.com",
+  "status": "정상영업",
+  "businessStartDate": "2005-12-01",
+  "finance": {
+    "currentAssets": 80016046186,
+    "fixedAssets": 249838906678,
+    "totalAssets": 329854952864,
+    "currentLiabilities": 33567331650,
+    "nonCurrentLiabilities": 347752060262,
+    "totalLiabilities": 381319391912,
+    "totalEquity": -51464439048,
+    "capital": 1500000000,
+    "capitalStatus": "완전자본잠식",
+    "solvencyRatioCompany": 85,
+    "solvencyRatioAverage": 100,
+    "debtRatioCompany": 116,
+    "debtRatioAverage": 100
+  },
+  "prepayment": {
+    "totalPrepayment": 347658408257,
+    "guaranteeRatio": 50,
+    "guaranteeInstitution": "한국상조공제조합",
+    "guaranteeType": "공제계약",
+    "guaranteeAmount": 173829204129,
+    "guaranteeInstitutionDetail": "한국상조공제조합"
+  },
+  "source": {
+    "name": "공정거래위원회 선불식할부거래사업자 정보공개",
+    "url": "https://www.ftc.go.kr/www/selectBizPpitOpenList.do?key=250",
+    "asOfDate": "2026-07-22"
+  }
+}

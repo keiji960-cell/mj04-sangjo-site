@@ -1,0 +1,42 @@
+{
+  "name": "(주)효원상조",
+  "ceoNameMasked": "이 *  *",
+  "regNumber": "서울-2010-제28호",
+  "regDate": "2010-10-12",
+  "corpRegNumber": "1342110067226",
+  "bizRegNumber": "126-81-81624",
+  "corpAddress": "서울특별시 강동구 풍성로38길 9",
+  "officeAddress": "서울특별시 강동구 풍성로38길 9",
+  "phone": "02-475-7444",
+  "email": "hyo*******@naver.com",
+  "status": "정상영업",
+  "businessStartDate": "2004-09-23",
+  "finance": {
+    "currentAssets": 21780329067,
+    "fixedAssets": 93029014352,
+    "totalAssets": 114809343419,
+    "currentLiabilities": 828116737,
+    "nonCurrentLiabilities": 128397621625,
+    "totalLiabilities": 129225738362,
+    "totalEquity": -14416394943,
+    "capital": 1500000000,
+    "capitalStatus": "완전자본잠식",
+    "solvencyRatioCompany": 88,
+    "solvencyRatioAverage": 100,
+    "debtRatioCompany": 113,
+    "debtRatioAverage": 100
+  },
+  "prepayment": {
+    "totalPrepayment": 128182838110,
+    "guaranteeRatio": 50,
+    "guaranteeInstitution": "상조보증공제조합",
+    "guaranteeType": "공제계약",
+    "guaranteeAmount": 64091419055,
+    "guaranteeInstitutionDetail": "상조보증공제조합"
+  },
+  "source": {
+    "name": "공정거래위원회 선불식할부거래사업자 정보공개",
+    "url": "https://www.ftc.go.kr/www/selectBizPpitOpenList.do?key=250",
+    "asOfDate": "2026-07-22"
+  }
+}

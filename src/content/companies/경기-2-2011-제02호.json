@@ -1,0 +1,42 @@
+{
+  "name": "(주)우정라이프[구.㈜롯데금융상조]",
+  "ceoNameMasked": "박 *  *",
+  "regNumber": "경기(2)-2011-제02호",
+  "regDate": "2011-03-16",
+  "corpRegNumber": "2802110101803",
+  "bizRegNumber": "127-86-26099",
+  "corpAddress": "경기도 의정부시 시민로 31",
+  "officeAddress": "경기도 의정부시 시민로 31",
+  "phone": "02-1544-3144",
+  "email": "uj2*****@naver.com",
+  "status": "정상영업",
+  "businessStartDate": "2010-09-01",
+  "finance": {
+    "currentAssets": 3399902221,
+    "fixedAssets": 13681601053,
+    "totalAssets": 17081503274,
+    "currentLiabilities": 34767932041,
+    "nonCurrentLiabilities": 759871388,
+    "totalLiabilities": 35527803429,
+    "totalEquity": -18446300155,
+    "capital": 2000000000,
+    "capitalStatus": "완전자본잠식",
+    "solvencyRatioCompany": 46,
+    "solvencyRatioAverage": 100,
+    "debtRatioCompany": 208,
+    "debtRatioAverage": 100
+  },
+  "prepayment": {
+    "totalPrepayment": 34866674500,
+    "guaranteeRatio": 50,
+    "guaranteeInstitution": "상조보증공제조합",
+    "guaranteeType": "공제계약",
+    "guaranteeAmount": 17433337250,
+    "guaranteeInstitutionDetail": "상조보증공제조합"
+  },
+  "source": {
+    "name": "공정거래위원회 선불식할부거래사업자 정보공개",
+    "url": "https://www.ftc.go.kr/www/selectBizPpitOpenList.do?key=250",
+    "asOfDate": "2026-07-22"
+  }
+}

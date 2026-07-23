@@ -1,0 +1,42 @@
+{
+  "name": "디에스라이프(주)[구.대구상조(주)]",
+  "ceoNameMasked": "정 *  *",
+  "regNumber": "대구-2010-제1호",
+  "regDate": "2010-10-11",
+  "corpRegNumber": "1701110016750",
+  "bizRegNumber": "501-81-06001",
+  "corpAddress": "대구광역시 수성구 달구벌대로 2461",
+  "officeAddress": "상 동",
+  "phone": "1577-7883",
+  "email": "dae**@sangjo.com",
+  "status": "정상영업",
+  "businessStartDate": "1982-11-01",
+  "finance": {
+    "currentAssets": 16795704604,
+    "fixedAssets": 30982923786,
+    "totalAssets": 47778628390,
+    "currentLiabilities": 801469675,
+    "nonCurrentLiabilities": 37192570000,
+    "totalLiabilities": 37994039675,
+    "totalEquity": 9784588715,
+    "capital": 1600000000,
+    "capitalStatus": "정상",
+    "solvencyRatioCompany": 126,
+    "solvencyRatioAverage": 100,
+    "debtRatioCompany": 80,
+    "debtRatioAverage": 100
+  },
+  "prepayment": {
+    "totalPrepayment": 36393107000,
+    "guaranteeRatio": 52,
+    "guaranteeInstitution": "IM뱅크",
+    "guaranteeType": "지급보증",
+    "guaranteeAmount": 18800000000,
+    "guaranteeInstitutionDetail": "IM뱅크 본점영업부"
+  },
+  "source": {
+    "name": "공정거래위원회 선불식할부거래사업자 정보공개",
+    "url": "https://www.ftc.go.kr/www/selectBizPpitOpenList.do?key=250",
+    "asOfDate": "2026-07-22"
+  }
+}

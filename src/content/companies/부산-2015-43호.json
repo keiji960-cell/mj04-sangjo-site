@@ -1,0 +1,42 @@
+{
+  "name": "제이에이치라이프(주)[구,주현의료법인상조(주)]",
+  "ceoNameMasked": "주 *  *",
+  "regNumber": "부산-2015-43호",
+  "regDate": "2010-09-17",
+  "corpRegNumber": "1101113337436",
+  "bizRegNumber": "108-81-72942",
+  "corpAddress": "부산광역시 부산진구 개금온정로 5",
+  "officeAddress": "상동",
+  "phone": "1644-0866",
+  "email": "k4s***@nate.com",
+  "status": "정상영업",
+  "businessStartDate": "2005-11-07",
+  "finance": {
+    "currentAssets": 21502156,
+    "fixedAssets": 3760496398,
+    "totalAssets": 3781998554,
+    "currentLiabilities": 7199605044,
+    "nonCurrentLiabilities": 5259837950,
+    "totalLiabilities": 12459442994,
+    "totalEquity": -8677444440,
+    "capital": 1500000000,
+    "capitalStatus": "완전자본잠식",
+    "solvencyRatioCompany": -66,
+    "solvencyRatioAverage": 100,
+    "debtRatioCompany": 329,
+    "debtRatioAverage": 100
+  },
+  "prepayment": {
+    "totalPrepayment": 5148171950,
+    "guaranteeRatio": 50,
+    "guaranteeInstitution": "한국상조공제조합",
+    "guaranteeType": "공제계약",
+    "guaranteeAmount": 2574085975,
+    "guaranteeInstitutionDetail": "한국상조공제조합"
+  },
+  "source": {
+    "name": "공정거래위원회 선불식할부거래사업자 정보공개",
+    "url": "https://www.ftc.go.kr/www/selectBizPpitOpenList.do?key=250",
+    "asOfDate": "2026-07-22"
+  }
+}

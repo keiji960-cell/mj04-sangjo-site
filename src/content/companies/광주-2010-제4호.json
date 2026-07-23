@@ -1,0 +1,42 @@
+{
+  "name": "(주)금호라이프[구.(주)금호상조]",
+  "ceoNameMasked": "기 *  *  *  *  *  *  *",
+  "regNumber": "광주-2010-제4호",
+  "regDate": "2010-11-30",
+  "corpRegNumber": "2001110218242",
+  "bizRegNumber": "409-81-88629",
+  "corpAddress": "광주광역시 북구 제봉로 301",
+  "officeAddress": "광주광역시 북구 제봉로 301",
+  "phone": "1566-4428",
+  "email": "hin******@naver.com",
+  "status": "정상영업",
+  "businessStartDate": "2005-12-14",
+  "finance": {
+    "currentAssets": 5229691303,
+    "fixedAssets": 33570651707,
+    "totalAssets": 38800343010,
+    "currentLiabilities": 596245044,
+    "nonCurrentLiabilities": 38253775100,
+    "totalLiabilities": 38850020144,
+    "totalEquity": -49677134,
+    "capital": 1500000000,
+    "capitalStatus": "완전자본잠식",
+    "solvencyRatioCompany": 99,
+    "solvencyRatioAverage": 100,
+    "debtRatioCompany": 100,
+    "debtRatioAverage": 100
+  },
+  "prepayment": {
+    "totalPrepayment": 38699394661,
+    "guaranteeRatio": 50,
+    "guaranteeInstitution": "상조보증공제조합",
+    "guaranteeType": "공제계약",
+    "guaranteeAmount": 19349697331,
+    "guaranteeInstitutionDetail": "상조보증공제조합"
+  },
+  "source": {
+    "name": "공정거래위원회 선불식할부거래사업자 정보공개",
+    "url": "https://www.ftc.go.kr/www/selectBizPpitOpenList.do?key=250",
+    "asOfDate": "2026-07-22"
+  }
+}

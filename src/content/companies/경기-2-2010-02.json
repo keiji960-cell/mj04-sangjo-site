@@ -1,0 +1,42 @@
+{
+  "name": "㈜좋은세상[구, ㈜새마을상조복지]",
+  "ceoNameMasked": "조 *  *",
+  "regNumber": "경기(2)-2010-02",
+  "regDate": "2010-11-29",
+  "corpRegNumber": "2850110162747",
+  "bizRegNumber": "128-86-41531",
+  "corpAddress": "경기도 안양시 만안구 박달로 406",
+  "officeAddress": "경기도 안양시 만안구 박달로 406",
+  "phone": "1588-6550",
+  "email": "joe***********@naver.com",
+  "status": "정상영업",
+  "businessStartDate": "2009-08-30",
+  "finance": {
+    "currentAssets": 854800960,
+    "fixedAssets": 4934523067,
+    "totalAssets": 5789324027,
+    "currentLiabilities": 158522519,
+    "nonCurrentLiabilities": 8936614430,
+    "totalLiabilities": 9095136949,
+    "totalEquity": -3305812922,
+    "capital": 1500300000,
+    "capitalStatus": "완전자본잠식",
+    "solvencyRatioCompany": -1478,
+    "solvencyRatioAverage": 100,
+    "debtRatioCompany": 157,
+    "debtRatioAverage": 100
+  },
+  "prepayment": {
+    "totalPrepayment": 209444846,
+    "guaranteeRatio": 50,
+    "guaranteeInstitution": "우리은행",
+    "guaranteeType": "예치계약",
+    "guaranteeAmount": 104722423,
+    "guaranteeInstitutionDetail": "우리은행(대화지점)"
+  },
+  "source": {
+    "name": "공정거래위원회 선불식할부거래사업자 정보공개",
+    "url": "https://www.ftc.go.kr/www/selectBizPpitOpenList.do?key=250",
+    "asOfDate": "2026-07-22"
+  }
+}

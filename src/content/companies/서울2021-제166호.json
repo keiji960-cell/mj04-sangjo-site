@@ -1,0 +1,42 @@
+{
+  "name": "(주)나드리가자[구. (주)동양상조, (주)케이라이프, (주)케이라이프상조]",
+  "ceoNameMasked": "박 *  *",
+  "regNumber": "서울2021-제166호",
+  "regDate": "2011-05-30",
+  "corpRegNumber": "1912110012024",
+  "bizRegNumber": "612-81-23348",
+  "corpAddress": "서울특별시 금천구 가산디지털1로 171",
+  "officeAddress": "서울특별시 금천구 가산디지털1로 171",
+  "phone": "1833-6167",
+  "email": "nad***@naver.com",
+  "status": "정상영업",
+  "businessStartDate": "2005-07-08",
+  "finance": {
+    "currentAssets": 236902391,
+    "fixedAssets": 5903602925,
+    "totalAssets": 6140505316,
+    "currentLiabilities": 250015617,
+    "nonCurrentLiabilities": 7745757400,
+    "totalLiabilities": 7995773017,
+    "totalEquity": -1855267701,
+    "capital": 1800000000,
+    "capitalStatus": "완전자본잠식",
+    "solvencyRatioCompany": 76,
+    "solvencyRatioAverage": 100,
+    "debtRatioCompany": 130,
+    "debtRatioAverage": 100
+  },
+  "prepayment": {
+    "totalPrepayment": 6894711800,
+    "guaranteeRatio": 50,
+    "guaranteeInstitution": "우리은행/우리은행",
+    "guaranteeType": "예치계약(상조상품)/예치계약(여행상품)",
+    "guaranteeAmount": null,
+    "guaranteeInstitutionDetail": "우리은행(영동지점)"
+  },
+  "source": {
+    "name": "공정거래위원회 선불식할부거래사업자 정보공개",
+    "url": "https://www.ftc.go.kr/www/selectBizPpitOpenList.do?key=250",
+    "asOfDate": "2026-07-22"
+  }
+}

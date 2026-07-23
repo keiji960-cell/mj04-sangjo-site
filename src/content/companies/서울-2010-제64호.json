@@ -1,0 +1,42 @@
+{
+  "name": "보람상조라이프(주)",
+  "ceoNameMasked": "오 *  *  *  *  *  *  *",
+  "regNumber": "서울-2010-제64호",
+  "regDate": "2011-01-03",
+  "corpRegNumber": "1801110149517",
+  "bizRegNumber": "604-81-23895",
+  "corpAddress": "서울특별시 중구 세종대로 73",
+  "officeAddress": "서울특별시 중구 세종대로 73",
+  "phone": "1588-7979",
+  "email": "bor******@boram.com",
+  "status": "정상영업",
+  "businessStartDate": "1994-01-01",
+  "finance": {
+    "currentAssets": 12948175760,
+    "fixedAssets": 447651860206,
+    "totalAssets": 460600035966,
+    "currentLiabilities": 25296936694,
+    "nonCurrentLiabilities": 486386636471,
+    "totalLiabilities": 511683573165,
+    "totalEquity": -51083537199,
+    "capital": 1500000000,
+    "capitalStatus": "완전자본잠식",
+    "solvencyRatioCompany": 89,
+    "solvencyRatioAverage": 100,
+    "debtRatioCompany": 111,
+    "debtRatioAverage": 100
+  },
+  "prepayment": {
+    "totalPrepayment": 507067834900,
+    "guaranteeRatio": 50,
+    "guaranteeInstitution": "한국상조공제조합",
+    "guaranteeType": "공제계약",
+    "guaranteeAmount": 253533917450,
+    "guaranteeInstitutionDetail": "한국상조공제조합"
+  },
+  "source": {
+    "name": "공정거래위원회 선불식할부거래사업자 정보공개",
+    "url": "https://www.ftc.go.kr/www/selectBizPpitOpenList.do?key=250",
+    "asOfDate": "2026-07-22"
+  }
+}

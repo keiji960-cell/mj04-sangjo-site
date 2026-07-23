@@ -1,0 +1,42 @@
+{
+  "name": "보람상조플러스(주)[구, 국방상조회(주), 케이비국방플러스(주), (주)지음파트너스/(주)제이아이제이라이프]",
+  "ceoNameMasked": "오 *  *",
+  "regNumber": "서울-2017-제159호",
+  "regDate": "2011-06-07",
+  "corpRegNumber": "1601110221161",
+  "bizRegNumber": "314-81-88618",
+  "corpAddress": "서울특별시 중구 세종대로 73",
+  "officeAddress": "서울특별시 중구 세종대로 73",
+  "phone": "1588-7979",
+  "email": "bor******@boram.com",
+  "status": "정상영업",
+  "businessStartDate": "2007-03-19",
+  "finance": {
+    "currentAssets": 183980408,
+    "fixedAssets": 521639235,
+    "totalAssets": 705619643,
+    "currentLiabilities": 315068961,
+    "nonCurrentLiabilities": 2013577140,
+    "totalLiabilities": 2328646101,
+    "totalEquity": -1623026458,
+    "capital": 1500000000,
+    "capitalStatus": "완전자본잠식",
+    "solvencyRatioCompany": -80,
+    "solvencyRatioAverage": 100,
+    "debtRatioCompany": 330,
+    "debtRatioAverage": 100
+  },
+  "prepayment": {
+    "totalPrepayment": 921588000,
+    "guaranteeRatio": 50,
+    "guaranteeInstitution": "한국상조공제조합",
+    "guaranteeType": "공제계약",
+    "guaranteeAmount": 460794000,
+    "guaranteeInstitutionDetail": "한국상조공제조합"
+  },
+  "source": {
+    "name": "공정거래위원회 선불식할부거래사업자 정보공개",
+    "url": "https://www.ftc.go.kr/www/selectBizPpitOpenList.do?key=250",
+    "asOfDate": "2026-07-22"
+  }
+}

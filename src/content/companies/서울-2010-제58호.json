@@ -1,0 +1,42 @@
+{
+  "name": "크리스찬상조(주)",
+  "ceoNameMasked": "김 *  *",
+  "regNumber": "서울-2010-제58호",
+  "regDate": "2010-11-30",
+  "corpRegNumber": "1101113860049",
+  "bizRegNumber": "120-87-25612",
+  "corpAddress": "서울시 강남구 선릉로 115길 3 (논현동 268-2 1층)",
+  "officeAddress": "서울시 강남구 선릉로 115길 3 (논현동 268-2 1층)",
+  "phone": "1644-4491",
+  "email": "cg4***@naver.com",
+  "status": "정상영업",
+  "businessStartDate": "2006-07-01",
+  "finance": {
+    "currentAssets": 4185148521,
+    "fixedAssets": 24461102151,
+    "totalAssets": 28646250672,
+    "currentLiabilities": 61955873,
+    "nonCurrentLiabilities": 34698458350,
+    "totalLiabilities": 34760414223,
+    "totalEquity": -6114163551,
+    "capital": 1500000000,
+    "capitalStatus": "완전자본잠식",
+    "solvencyRatioCompany": 82,
+    "solvencyRatioAverage": 100,
+    "debtRatioCompany": 121,
+    "debtRatioAverage": 100
+  },
+  "prepayment": {
+    "totalPrepayment": 34267139850,
+    "guaranteeRatio": 50,
+    "guaranteeInstitution": "한국상조공제조합",
+    "guaranteeType": "공제계약",
+    "guaranteeAmount": 17133569925,
+    "guaranteeInstitutionDetail": "한국상조공제조합"
+  },
+  "source": {
+    "name": "공정거래위원회 선불식할부거래사업자 정보공개",
+    "url": "https://www.ftc.go.kr/www/selectBizPpitOpenList.do?key=250",
+    "asOfDate": "2026-07-22"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "name": "(주)제이케이",
+  "ceoNameMasked": "채 *  *  *  *  *  *  *",
+  "regNumber": "광주-2010-제2호",
+  "regDate": "2010-10-06",
+  "corpRegNumber": "2001110218599",
+  "bizRegNumber": "410-81-99989",
+  "corpAddress": "광주광역시 광산구 무진대로 266",
+  "officeAddress": "광주광역시 광산구 무진대로 266",
+  "phone": "1599-4484",
+  "email": "suj*****@naver.com",
+  "status": "정상영업",
+  "businessStartDate": "2005-12-12",
+  "finance": {
+    "currentAssets": 14339453579,
+    "fixedAssets": 88601542166,
+    "totalAssets": 102940995745,
+    "currentLiabilities": 1651808050,
+    "nonCurrentLiabilities": 79275985400,
+    "totalLiabilities": 80927793450,
+    "totalEquity": 22013202295,
+    "capital": 1500000000,
+    "capitalStatus": "정상",
+    "solvencyRatioCompany": 128,
+    "solvencyRatioAverage": 100,
+    "debtRatioCompany": 79,
+    "debtRatioAverage": 100
+  },
+  "prepayment": {
+    "totalPrepayment": 74255840960,
+    "guaranteeRatio": 50,
+    "guaranteeInstitution": "한국상조공제조합",
+    "guaranteeType": "공제계약",
+    "guaranteeAmount": 37127920480,
+    "guaranteeInstitutionDetail": "한국상조공제조합"
+  },
+  "source": {
+    "name": "공정거래위원회 선불식할부거래사업자 정보공개",
+    "url": "https://www.ftc.go.kr/www/selectBizPpitOpenList.do?key=250",
+    "asOfDate": "2026-07-22"
+  }
+}

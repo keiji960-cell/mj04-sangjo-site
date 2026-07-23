@@ -1,0 +1,50 @@
+---
+import Layout from '../layouts/Layout.astro';
+import { getCollection } from 'astro:content';
+
+const posts = (await getCollection('posts')).sort(
+  (a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf()
+);
+const companies = await getCollection('companies');
+const fullErosion = companies.filter((c) => c.data.finance.capitalStatus === '완전자본잠식').length;
+const partialErosion = companies.filter((c) => c.data.finance.capitalStatus === '부분자본잠식').length;
+const asOfDate = companies[0]?.data.source.asOfDate ?? '';
+---
+<Layout title="상조업체 정보 비교" description="공정거래위원회 공시 데이터를 기준으로 상조(선불식 할부거래)업체의 등록·재무 정보를 정리해 비교합니다.">
+  <section class="hero">
+    <div>
+      <p class="hero-eyebrow">가입 전, 공정위 공시로 먼저 확인하세요</p>
+      <h1>이 상조회사, 재무 상태가 괜찮은 걸까요?</h1>
+      <p class="hero-sub">상조회사 순위·추천 콘텐츠는 많지만, 공정위가 공개한 재무 데이터를 있는 그대로 찾아보기 쉬운 곳은 없었습니다. 정상영업 중인 업체 {companies.length}곳의 등록정보·재무현황·선수금현황을 공시 원문 그대로 정리했습니다.</p>
+      <ul class="hero-facts">
+        <li>공정거래위원회 공식 공시 데이터 전수 정리 (조회일 {asOfDate})</li>
+        <li>업체별 순위·평가 없이, 공시 수치와 계산 방식을 그대로 공개</li>
+        <li>완전자본잠식 {fullErosion}곳 · 부분자본잠식 {partialErosion}곳 — 계산 방식은 비교표 페이지에서 확인 가능</li>
+      </ul>
+    </div>
+  </section>
+
+  <section class="category-group">
+    <h2>전체 업체 비교표</h2>
+    <p class="category-hook">정상영업 중인 {companies.length}개 업체를 한 번에 비교하고 싶다면.</p>
+    <a class="post-card" href="/companies/">
+      <h3>전체 상조업체 재무·선수금 비교표 보기 →</h3>
+    </a>
+  </section>
+
+  {posts.length > 0 && (
+    <section class="category-group">
+      <h2>가이드</h2>
+      <ul class="post-list">
+        {posts.map((post) => (
+          <li>
+            <a class="post-card" href={`/posts/${post.slug}/`}>
+              <h3>{post.data.title}</h3>
+              <p>{post.data.description}</p>
+            </a>
+          </li>
+        ))}
+      </ul>
+    </section>
+  )}
+</Layout>

@@ -1,0 +1,42 @@
+{
+  "name": "보람상조애니콜(주)",
+  "ceoNameMasked": "오 *  *  *  *  *  *  *  *  *  *  *  *",
+  "regNumber": "서울-2011-제84호",
+  "regDate": "2011-03-14",
+  "corpRegNumber": "1101113811282",
+  "bizRegNumber": "215-87-10848",
+  "corpAddress": "서울특별시 중구 세종대로 73",
+  "officeAddress": "서울특별시 중구 세종대로 73",
+  "phone": "1588-7979",
+  "email": "bor******@boram.com",
+  "status": "정상영업",
+  "businessStartDate": "2008-01-02",
+  "finance": {
+    "currentAssets": 19943153541,
+    "fixedAssets": 90852604348,
+    "totalAssets": 110795757889,
+    "currentLiabilities": 4811617153,
+    "nonCurrentLiabilities": 128194664632,
+    "totalLiabilities": 133006281785,
+    "totalEquity": -22210523896,
+    "capital": 1500000000,
+    "capitalStatus": "완전자본잠식",
+    "solvencyRatioCompany": 82,
+    "solvencyRatioAverage": 100,
+    "debtRatioCompany": 120,
+    "debtRatioAverage": 100
+  },
+  "prepayment": {
+    "totalPrepayment": 132709811500,
+    "guaranteeRatio": 50,
+    "guaranteeInstitution": "우리은행/한국상조공제조합",
+    "guaranteeType": "예치계약/공제계약",
+    "guaranteeAmount": null,
+    "guaranteeInstitutionDetail": "한국상조공제조합,우리은행(가락중앙지점)"
+  },
+  "source": {
+    "name": "공정거래위원회 선불식할부거래사업자 정보공개",
+    "url": "https://www.ftc.go.kr/www/selectBizPpitOpenList.do?key=250",
+    "asOfDate": "2026-07-22"
+  }
+}

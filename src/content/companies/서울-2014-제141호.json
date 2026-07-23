@@ -1,0 +1,42 @@
+{
+  "name": "㈜한주라이프",
+  "ceoNameMasked": "이 *  *",
+  "regNumber": "서울-2014-제141호",
+  "regDate": "2014-05-08",
+  "corpRegNumber": "1101115397537",
+  "bizRegNumber": "215-87-90764",
+  "corpAddress": "서울특별시 영등포구 선유로 130",
+  "officeAddress": "상동",
+  "phone": "010-개인정보",
+  "email": "han******@gmail.com",
+  "status": "정상영업",
+  "businessStartDate": "2014-04-24",
+  "finance": {
+    "currentAssets": 1461775785,
+    "fixedAssets": 17241556,
+    "totalAssets": 1479017341,
+    "currentLiabilities": 93263730,
+    "nonCurrentLiabilities": 34232000,
+    "totalLiabilities": 127495730,
+    "totalEquity": 1351521611,
+    "capital": 1500000000,
+    "capitalStatus": "부분자본잠식",
+    "solvencyRatioCompany": 4048,
+    "solvencyRatioAverage": 100,
+    "debtRatioCompany": 9,
+    "debtRatioAverage": 100
+  },
+  "prepayment": {
+    "totalPrepayment": 34724000,
+    "guaranteeRatio": 50,
+    "guaranteeInstitution": "신한은행",
+    "guaranteeType": "예치계약",
+    "guaranteeAmount": 17362000,
+    "guaranteeInstitutionDetail": "신한은행 창신동금융센터"
+  },
+  "source": {
+    "name": "공정거래위원회 선불식할부거래사업자 정보공개",
+    "url": "https://www.ftc.go.kr/www/selectBizPpitOpenList.do?key=250",
+    "asOfDate": "2026-07-22"
+  }
+}

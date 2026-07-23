@@ -1,0 +1,42 @@
+{
+  "name": "휴먼라이프(주)",
+  "ceoNameMasked": "박 *  *",
+  "regNumber": "서울-2012-제115호",
+  "regDate": "2012-03-21",
+  "corpRegNumber": "1101114818245",
+  "bizRegNumber": "114-86-94252",
+  "corpAddress": "서울특별시 서초구 서초중앙로 64",
+  "officeAddress": "충청북도 청주시 흥덕구 2순환로1167번길 4",
+  "phone": "1544-6477",
+  "email": "hum*******@naver.com",
+  "status": "정상영업",
+  "businessStartDate": "2012-03-21",
+  "finance": {
+    "currentAssets": 42178285647,
+    "fixedAssets": 50284207964,
+    "totalAssets": 92462493611,
+    "currentLiabilities": 1033628739,
+    "nonCurrentLiabilities": 88356504202,
+    "totalLiabilities": 89390132941,
+    "totalEquity": 3072360670,
+    "capital": 1583000000,
+    "capitalStatus": "정상",
+    "solvencyRatioCompany": 103,
+    "solvencyRatioAverage": 100,
+    "debtRatioCompany": 97,
+    "debtRatioAverage": 100
+  },
+  "prepayment": {
+    "totalPrepayment": 20040408306,
+    "guaranteeRatio": 50,
+    "guaranteeInstitution": "우리은행",
+    "guaranteeType": "예치계약",
+    "guaranteeAmount": 10020204153,
+    "guaranteeInstitutionDetail": "우리은행(가경동지점)"
+  },
+  "source": {
+    "name": "공정거래위원회 선불식할부거래사업자 정보공개",
+    "url": "https://www.ftc.go.kr/www/selectBizPpitOpenList.do?key=250",
+    "asOfDate": "2026-07-22"
+  }
+}

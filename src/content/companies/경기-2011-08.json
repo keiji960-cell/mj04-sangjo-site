@@ -1,0 +1,42 @@
+{
+  "name": "(주)예사랑라이프",
+  "ceoNameMasked": "박 *  *",
+  "regNumber": "경기-2011-08",
+  "regDate": "2011-03-16",
+  "corpRegNumber": "1211110185968",
+  "bizRegNumber": "130-86-42101",
+  "corpAddress": "경기도 부천시 부일로 226",
+  "officeAddress": "경기도 부천시 부일로 226",
+  "phone": "032-329-0080",
+  "email": "ysr****@naver.com",
+  "status": "정상영업",
+  "businessStartDate": "2009-04-27",
+  "finance": {
+    "currentAssets": 4633925768,
+    "fixedAssets": 636470287,
+    "totalAssets": 5270396055,
+    "currentLiabilities": 4999046429,
+    "nonCurrentLiabilities": 1226699700,
+    "totalLiabilities": 6225746129,
+    "totalEquity": -955350074,
+    "capital": 1500000000,
+    "capitalStatus": "완전자본잠식",
+    "solvencyRatioCompany": 22,
+    "solvencyRatioAverage": 100,
+    "debtRatioCompany": 118,
+    "debtRatioAverage": 100
+  },
+  "prepayment": {
+    "totalPrepayment": 1263882700,
+    "guaranteeRatio": 50,
+    "guaranteeInstitution": "신한은행",
+    "guaranteeType": "예치계약",
+    "guaranteeAmount": 631941350,
+    "guaranteeInstitutionDetail": "신한은행 부천기업금융센터"
+  },
+  "source": {
+    "name": "공정거래위원회 선불식할부거래사업자 정보공개",
+    "url": "https://www.ftc.go.kr/www/selectBizPpitOpenList.do?key=250",
+    "asOfDate": "2026-07-22"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "name": "㈜삼우라이프",
+  "ceoNameMasked": "윤 *  *",
+  "regNumber": "서울-2010-제17호",
+  "regDate": "2010-10-05",
+  "corpRegNumber": "1101114373348",
+  "bizRegNumber": "220-88-01085",
+  "corpAddress": "서울특별시 강남구 테헤란로 313",
+  "officeAddress": "서울특별시 강남구 테헤란로 313",
+  "phone": "02-568-1226",
+  "email": null,
+  "status": "정상영업",
+  "businessStartDate": "2010-06-17",
+  "finance": {
+    "currentAssets": 573726744,
+    "fixedAssets": 9582727925,
+    "totalAssets": 10156454669,
+    "currentLiabilities": 14783633,
+    "nonCurrentLiabilities": 12671175539,
+    "totalLiabilities": 12685959172,
+    "totalEquity": -2529504503,
+    "capital": 1500000000,
+    "capitalStatus": "완전자본잠식",
+    "solvencyRatioCompany": 79,
+    "solvencyRatioAverage": 100,
+    "debtRatioCompany": 125,
+    "debtRatioAverage": 100
+  },
+  "prepayment": {
+    "totalPrepayment": 12758677590,
+    "guaranteeRatio": 50,
+    "guaranteeInstitution": "신한은행",
+    "guaranteeType": "예치계약",
+    "guaranteeAmount": 6379449782,
+    "guaranteeInstitutionDetail": "신한은행 선릉중앙금융센터"
+  },
+  "source": {
+    "name": "공정거래위원회 선불식할부거래사업자 정보공개",
+    "url": "https://www.ftc.go.kr/www/selectBizPpitOpenList.do?key=250",
+    "asOfDate": "2026-07-22"
+  }
+}

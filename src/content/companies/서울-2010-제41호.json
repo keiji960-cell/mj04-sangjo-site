@@ -1,0 +1,42 @@
+{
+  "name": "더좋은라이프(주)[구, 우림종합상조(주), 우림라이프(주)]",
+  "ceoNameMasked": "최 *  *",
+  "regNumber": "서울-2010-제41호",
+  "regDate": "2010-10-27",
+  "corpRegNumber": "1101113878951",
+  "bizRegNumber": "113-86-21120",
+  "corpAddress": "서울특별시 영등포구 선유동2로 64",
+  "officeAddress": "상동",
+  "phone": "1644-7934",
+  "email": "wsj****@nate.com",
+  "status": "정상영업",
+  "businessStartDate": "2008-05-10",
+  "finance": {
+    "currentAssets": 28888416,
+    "fixedAssets": 1434808344,
+    "totalAssets": 1463696760,
+    "currentLiabilities": 60438166,
+    "nonCurrentLiabilities": 2054623562,
+    "totalLiabilities": 2115061728,
+    "totalEquity": -651364968,
+    "capital": 1500000000,
+    "capitalStatus": "완전자본잠식",
+    "solvencyRatioCompany": 59,
+    "solvencyRatioAverage": 100,
+    "debtRatioCompany": 145,
+    "debtRatioAverage": 100
+  },
+  "prepayment": {
+    "totalPrepayment": 1680458600,
+    "guaranteeRatio": 50,
+    "guaranteeInstitution": "신한은행",
+    "guaranteeType": "예치계약",
+    "guaranteeAmount": 840229300,
+    "guaranteeInstitutionDetail": "신한은행 구로디지털금융센터"
+  },
+  "source": {
+    "name": "공정거래위원회 선불식할부거래사업자 정보공개",
+    "url": "https://www.ftc.go.kr/www/selectBizPpitOpenList.do?key=250",
+    "asOfDate": "2026-07-22"
+  }
+}

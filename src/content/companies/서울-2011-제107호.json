@@ -1,0 +1,42 @@
+{
+  "name": "엘비라이프(주)",
+  "ceoNameMasked": "신 *  *",
+  "regNumber": "서울-2011-제107호",
+  "regDate": "2011-06-15",
+  "corpRegNumber": "1101114570746",
+  "bizRegNumber": "211-88-58191",
+  "corpAddress": "서울특별시 강남구 강남대로 574",
+  "officeAddress": "서울특별시 강남구 강남대로 574",
+  "phone": "1688-7676",
+  "email": "elb******@naver.com",
+  "status": "정상영업",
+  "businessStartDate": "2011-07-01",
+  "finance": {
+    "currentAssets": 13421166321,
+    "fixedAssets": 12813293282,
+    "totalAssets": 26234459603,
+    "currentLiabilities": 215779665,
+    "nonCurrentLiabilities": 37210663407,
+    "totalLiabilities": 37426443072,
+    "totalEquity": -11191983469,
+    "capital": 3000000000,
+    "capitalStatus": "완전자본잠식",
+    "solvencyRatioCompany": 69,
+    "solvencyRatioAverage": 100,
+    "debtRatioCompany": 143,
+    "debtRatioAverage": 100
+  },
+  "prepayment": {
+    "totalPrepayment": 37263107690,
+    "guaranteeRatio": 50,
+    "guaranteeInstitution": "상조보증공제조합/상조보증공제조합",
+    "guaranteeType": "공제계약(여행상품)/공제계약(상조상품)",
+    "guaranteeAmount": null,
+    "guaranteeInstitutionDetail": "상조보증공제조합"
+  },
+  "source": {
+    "name": "공정거래위원회 선불식할부거래사업자 정보공개",
+    "url": "https://www.ftc.go.kr/www/selectBizPpitOpenList.do?key=250",
+    "asOfDate": "2026-07-22"
+  }
+}

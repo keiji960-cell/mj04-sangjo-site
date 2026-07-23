@@ -1,0 +1,42 @@
+{
+  "name": "(주)믿음의 가족[구(주)광명상조]",
+  "ceoNameMasked": "문 *  *  *  *  *  *  *",
+  "regNumber": "부산-2010-13호",
+  "regDate": "2010-12-27",
+  "corpRegNumber": "1801110591502",
+  "bizRegNumber": "607-81-80745",
+  "corpAddress": "부산광역시 사상구 새벽시장로 57",
+  "officeAddress": "부산광역시 사상구 새벽시장로 57",
+  "phone": "1577-1476,051-861-1472",
+  "email": "suz*****@daum.net",
+  "status": "정상영업",
+  "businessStartDate": "2007-04-27",
+  "finance": {
+    "currentAssets": 51989023,
+    "fixedAssets": 223273457,
+    "totalAssets": 275262480,
+    "currentLiabilities": 213466374,
+    "nonCurrentLiabilities": 308140000,
+    "totalLiabilities": 521606374,
+    "totalEquity": -246343894,
+    "capital": 2100000000,
+    "capitalStatus": "완전자본잠식",
+    "solvencyRatioCompany": 20,
+    "solvencyRatioAverage": 100,
+    "debtRatioCompany": 189,
+    "debtRatioAverage": 100
+  },
+  "prepayment": {
+    "totalPrepayment": 308660000,
+    "guaranteeRatio": 50,
+    "guaranteeInstitution": "우리은행",
+    "guaranteeType": "예치계약",
+    "guaranteeAmount": 154592000,
+    "guaranteeInstitutionDetail": "우리은행(사상지점)"
+  },
+  "source": {
+    "name": "공정거래위원회 선불식할부거래사업자 정보공개",
+    "url": "https://www.ftc.go.kr/www/selectBizPpitOpenList.do?key=250",
+    "asOfDate": "2026-07-22"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "name": "(주)온라이프그룹",
+  "ceoNameMasked": "윤 *  *",
+  "regNumber": "부산-2023-01호",
+  "regDate": "2023-02-13",
+  "corpRegNumber": "1801111470416",
+  "bizRegNumber": "583-87-02839",
+  "corpAddress": "부산광역시 부산진구 가야대로 767",
+  "officeAddress": "상동",
+  "phone": "051-983-1000",
+  "email": "on*@on-life.co.kr",
+  "status": "정상영업",
+  "businessStartDate": null,
+  "finance": {
+    "currentAssets": 1968680435,
+    "fixedAssets": 21493501,
+    "totalAssets": 1990173936,
+    "currentLiabilities": 549135257,
+    "nonCurrentLiabilities": 0,
+    "totalLiabilities": 549135257,
+    "totalEquity": 1441038679,
+    "capital": 1500000000,
+    "capitalStatus": "부분자본잠식",
+    "solvencyRatioCompany": null,
+    "solvencyRatioAverage": 100,
+    "debtRatioCompany": 28,
+    "debtRatioAverage": 100
+  },
+  "prepayment": {
+    "totalPrepayment": 0,
+    "guaranteeRatio": 0,
+    "guaranteeInstitution": "부산은행",
+    "guaranteeType": "예치계약",
+    "guaranteeAmount": 0,
+    "guaranteeInstitutionDetail": "부산은행 부전동금융센터"
+  },
+  "source": {
+    "name": "공정거래위원회 선불식할부거래사업자 정보공개",
+    "url": "https://www.ftc.go.kr/www/selectBizPpitOpenList.do?key=250",
+    "asOfDate": "2026-07-22"
+  }
+}

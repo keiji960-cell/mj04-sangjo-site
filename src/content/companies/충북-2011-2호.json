@@ -1,0 +1,42 @@
+{
+  "name": "(주)지우라이프상조[구.(주)신장상조]",
+  "ceoNameMasked": "조 *  *",
+  "regNumber": "충북-2011-2호",
+  "regDate": "2011-03-08",
+  "corpRegNumber": "1511110033187",
+  "bizRegNumber": "303-81-52482",
+  "corpAddress": "충청북도 음성군 대소면 대금로 888-8",
+  "officeAddress": "충청북도 음성군 대소면 대금로 888-8",
+  "phone": "1544-0118",
+  "email": "jiw******@naver.com",
+  "status": "정상영업",
+  "businessStartDate": "2008-09-17",
+  "finance": {
+    "currentAssets": 1131111481,
+    "fixedAssets": 856375547,
+    "totalAssets": 1987487028,
+    "currentLiabilities": 16422772,
+    "nonCurrentLiabilities": 565050431,
+    "totalLiabilities": 581473203,
+    "totalEquity": 1406013825,
+    "capital": 1500000000,
+    "capitalStatus": "부분자본잠식",
+    "solvencyRatioCompany": 348,
+    "solvencyRatioAverage": 100,
+    "debtRatioCompany": 29,
+    "debtRatioAverage": 100
+  },
+  "prepayment": {
+    "totalPrepayment": 491627900,
+    "guaranteeRatio": 50,
+    "guaranteeInstitution": "국민은행",
+    "guaranteeType": "예치계약",
+    "guaranteeAmount": 245813950,
+    "guaranteeInstitutionDetail": "국민은행 충주지점"
+  },
+  "source": {
+    "name": "공정거래위원회 선불식할부거래사업자 정보공개",
+    "url": "https://www.ftc.go.kr/www/selectBizPpitOpenList.do?key=250",
+    "asOfDate": "2026-07-22"
+  }
+}

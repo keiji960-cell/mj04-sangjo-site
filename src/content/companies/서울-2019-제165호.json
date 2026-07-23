@@ -1,0 +1,42 @@
+{
+  "name": "(주)하나로라이프",
+  "ceoNameMasked": "정 *  *",
+  "regNumber": "서울-2019-제165호",
+  "regDate": "2019-04-08",
+  "corpRegNumber": "1101113158155",
+  "bizRegNumber": "107-86-66909",
+  "corpAddress": "서울특별시 영등포구 경인로71길 70",
+  "officeAddress": "서울특별시 영등포구 경인로71길 70",
+  "phone": "1899-4171",
+  "email": "jdy****@nate.com",
+  "status": "정상영업",
+  "businessStartDate": "2019-04-08",
+  "finance": {
+    "currentAssets": 706813154,
+    "fixedAssets": 250011000,
+    "totalAssets": 956824154,
+    "currentLiabilities": 226804000,
+    "nonCurrentLiabilities": 0,
+    "totalLiabilities": 226804000,
+    "totalEquity": 730020154,
+    "capital": 1569000000,
+    "capitalStatus": "부분자본잠식",
+    "solvencyRatioCompany": 422,
+    "solvencyRatioAverage": 100,
+    "debtRatioCompany": 24,
+    "debtRatioAverage": 100
+  },
+  "prepayment": {
+    "totalPrepayment": 225368000,
+    "guaranteeRatio": 50,
+    "guaranteeInstitution": "신한은행",
+    "guaranteeType": "예치계약",
+    "guaranteeAmount": 112684000,
+    "guaranteeInstitutionDetail": "신한은행 강북방학센터점"
+  },
+  "source": {
+    "name": "공정거래위원회 선불식할부거래사업자 정보공개",
+    "url": "https://www.ftc.go.kr/www/selectBizPpitOpenList.do?key=250",
+    "asOfDate": "2026-07-22"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "name": "(주)현진시닝",
+  "ceoNameMasked": "박 *  *",
+  "regNumber": "경기-2026-제1호",
+  "regDate": "2026-03-24",
+  "corpRegNumber": null,
+  "bizRegNumber": null,
+  "corpAddress": "경기도 과천시 향나무로 6",
+  "officeAddress": "상동",
+  "phone": "02-734-2113",
+  "email": "ske**@hyunjinsn.com",
+  "status": "정상영업",
+  "businessStartDate": "2026-03-24",
+  "finance": {
+    "currentAssets": 0,
+    "fixedAssets": 0,
+    "totalAssets": 0,
+    "currentLiabilities": 0,
+    "nonCurrentLiabilities": 0,
+    "totalLiabilities": 0,
+    "totalEquity": 0,
+    "capital": 0,
+    "capitalStatus": "정상",
+    "solvencyRatioCompany": 0,
+    "solvencyRatioAverage": 100,
+    "debtRatioCompany": 0,
+    "debtRatioAverage": 100
+  },
+  "prepayment": {
+    "totalPrepayment": 0,
+    "guaranteeRatio": 0,
+    "guaranteeInstitution": "국민은행",
+    "guaranteeType": "예치계약",
+    "guaranteeAmount": 0,
+    "guaranteeInstitutionDetail": null
+  },
+  "source": {
+    "name": "공정거래위원회 선불식할부거래사업자 정보공개",
+    "url": "https://www.ftc.go.kr/www/selectBizPpitOpenList.do?key=250",
+    "asOfDate": "2026-07-22"
+  }
+}

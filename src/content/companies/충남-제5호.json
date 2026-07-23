@@ -1,0 +1,42 @@
+{
+  "name": "한양상조(주)",
+  "ceoNameMasked": "이 *  *",
+  "regNumber": "충남-제5호",
+  "regDate": "2011-03-02",
+  "corpRegNumber": "1211110137240",
+  "bizRegNumber": "130-86-16336",
+  "corpAddress": "충청남도 천안시 동남구 영성로 84",
+  "officeAddress": "충청남도 천안시 동남구 영성로 84",
+  "phone": "1588-1226",
+  "email": "hoj******@naver.com",
+  "status": "정상영업",
+  "businessStartDate": "2005-11-10",
+  "finance": {
+    "currentAssets": 2430455755,
+    "fixedAssets": 390376129,
+    "totalAssets": 2820831884,
+    "currentLiabilities": 782351691,
+    "nonCurrentLiabilities": 1062225560,
+    "totalLiabilities": 1844577251,
+    "totalEquity": 976254633,
+    "capital": 1500000000,
+    "capitalStatus": "부분자본잠식",
+    "solvencyRatioCompany": 272,
+    "solvencyRatioAverage": 100,
+    "debtRatioCompany": 65,
+    "debtRatioAverage": 100
+  },
+  "prepayment": {
+    "totalPrepayment": 561845000,
+    "guaranteeRatio": 50,
+    "guaranteeInstitution": "신한은행",
+    "guaranteeType": "예치계약",
+    "guaranteeAmount": 280932500,
+    "guaranteeInstitutionDetail": "신한은행(부천상동지점)"
+  },
+  "source": {
+    "name": "공정거래위원회 선불식할부거래사업자 정보공개",
+    "url": "https://www.ftc.go.kr/www/selectBizPpitOpenList.do?key=250",
+    "asOfDate": "2026-07-22"
+  }
+}

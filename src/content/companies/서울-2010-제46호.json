@@ -1,0 +1,42 @@
+{
+  "name": "(주)더피플라이프[구.금강종합상조(주)]",
+  "ceoNameMasked": "차 *  *",
+  "regNumber": "서울-2010-제46호",
+  "regDate": "2010-11-02",
+  "corpRegNumber": "1101113304419",
+  "bizRegNumber": "105-86-83519",
+  "corpAddress": "서울특별시 마포구 신촌로12길 4",
+  "officeAddress": "서울특별시 마포구 신촌로12길 4",
+  "phone": "1588-4471,1577-3411",
+  "email": "inf*@thepeoplelife.co.kr",
+  "status": "정상영업",
+  "businessStartDate": "2005-10-01",
+  "finance": {
+    "currentAssets": 126691239930,
+    "fixedAssets": 244133411338,
+    "totalAssets": 370824651268,
+    "currentLiabilities": 3877085348,
+    "nonCurrentLiabilities": 380120679367,
+    "totalLiabilities": 383997764715,
+    "totalEquity": -13173113447,
+    "capital": 1500000000,
+    "capitalStatus": "완전자본잠식",
+    "solvencyRatioCompany": 96,
+    "solvencyRatioAverage": 100,
+    "debtRatioCompany": 104,
+    "debtRatioAverage": 100
+  },
+  "prepayment": {
+    "totalPrepayment": 389411666975,
+    "guaranteeRatio": 50,
+    "guaranteeInstitution": "상조보증공제조합/상조보증공제조합",
+    "guaranteeType": "공제계약(여행상품)/공제계약(상조상품)",
+    "guaranteeAmount": null,
+    "guaranteeInstitutionDetail": null
+  },
+  "source": {
+    "name": "공정거래위원회 선불식할부거래사업자 정보공개",
+    "url": "https://www.ftc.go.kr/www/selectBizPpitOpenList.do?key=250",
+    "asOfDate": "2026-07-22"
+  }
+}

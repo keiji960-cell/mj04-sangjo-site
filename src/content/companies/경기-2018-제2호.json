@@ -1,0 +1,42 @@
+{
+  "name": "한라상조(주)",
+  "ceoNameMasked": "문 *  *",
+  "regNumber": "경기-2018-제2호",
+  "regDate": "2010-12-07",
+  "corpRegNumber": "2301110097707",
+  "bizRegNumber": "610-81-67883",
+  "corpAddress": "경기도 용인시 기흥구 흥덕1로 13",
+  "officeAddress": "경기도 용인시 기흥구 흥덕1로 13",
+  "phone": "1588-4331",
+  "email": "han******@hanmail.net",
+  "status": "정상영업",
+  "businessStartDate": "2003-08-15",
+  "finance": {
+    "currentAssets": 23063244406,
+    "fixedAssets": 35027023304,
+    "totalAssets": 58090267710,
+    "currentLiabilities": 9627654838,
+    "nonCurrentLiabilities": 55405172846,
+    "totalLiabilities": 65032827684,
+    "totalEquity": -6942559974,
+    "capital": 1500000000,
+    "capitalStatus": "완전자본잠식",
+    "solvencyRatioCompany": 85,
+    "solvencyRatioAverage": 100,
+    "debtRatioCompany": 112,
+    "debtRatioAverage": 100
+  },
+  "prepayment": {
+    "totalPrepayment": 53891323855,
+    "guaranteeRatio": 50,
+    "guaranteeInstitution": "한국상조공제조합",
+    "guaranteeType": "공제계약",
+    "guaranteeAmount": 26945661927,
+    "guaranteeInstitutionDetail": "한국상조공제조합"
+  },
+  "source": {
+    "name": "공정거래위원회 선불식할부거래사업자 정보공개",
+    "url": "https://www.ftc.go.kr/www/selectBizPpitOpenList.do?key=250",
+    "asOfDate": "2026-07-22"
+  }
+}

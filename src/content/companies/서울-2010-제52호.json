@@ -1,0 +1,42 @@
+{
+  "name": "보람상조피플(주)",
+  "ceoNameMasked": "김 *  *",
+  "regNumber": "서울-2010-제52호",
+  "regDate": "2010-11-26",
+  "corpRegNumber": "1101114058354",
+  "bizRegNumber": "220-87-79209",
+  "corpAddress": "서울시 성동구 광나루로 130, 7층",
+  "officeAddress": "서울시 성동구 광나루로 130, 7층",
+  "phone": "1588-7979",
+  "email": "bor******@boram.com",
+  "status": "정상영업",
+  "businessStartDate": "2009-03-07",
+  "finance": {
+    "currentAssets": 38664150316,
+    "fixedAssets": 173692514906,
+    "totalAssets": 212356665222,
+    "currentLiabilities": 22528382777,
+    "nonCurrentLiabilities": 200214824779,
+    "totalLiabilities": 222743207556,
+    "totalEquity": -10386542334,
+    "capital": 1578960000,
+    "capitalStatus": "완전자본잠식",
+    "solvencyRatioCompany": 94,
+    "solvencyRatioAverage": 100,
+    "debtRatioCompany": 105,
+    "debtRatioAverage": 100
+  },
+  "prepayment": {
+    "totalPrepayment": 194768201500,
+    "guaranteeRatio": 50,
+    "guaranteeInstitution": "한국상조공제조합",
+    "guaranteeType": "공제계약",
+    "guaranteeAmount": 97384100750,
+    "guaranteeInstitutionDetail": "한국상조공제조합"
+  },
+  "source": {
+    "name": "공정거래위원회 선불식할부거래사업자 정보공개",
+    "url": "https://www.ftc.go.kr/www/selectBizPpitOpenList.do?key=250",
+    "asOfDate": "2026-07-22"
+  }
+}

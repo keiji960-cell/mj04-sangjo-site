@@ -1,0 +1,42 @@
+{
+  "name": "(주)웰리빙라이프[구, 한국통합상조(주)]",
+  "ceoNameMasked": "강 *  *",
+  "regNumber": "경남 2023-제1호",
+  "regDate": "2013-06-13",
+  "corpRegNumber": "1101115136018",
+  "bizRegNumber": "106-86-93970",
+  "corpAddress": "경상남도 양산시 삼호로 106",
+  "officeAddress": "경상남도 양산시 삼호로 106",
+  "phone": "1544-4694",
+  "email": "th9****@naver.com",
+  "status": "정상영업",
+  "businessStartDate": "2013-05-21",
+  "finance": {
+    "currentAssets": 2107215719,
+    "fixedAssets": 7426786614,
+    "totalAssets": 9534002333,
+    "currentLiabilities": 47140278,
+    "nonCurrentLiabilities": 14173374001,
+    "totalLiabilities": 14220514279,
+    "totalEquity": -4686511946,
+    "capital": 1500000000,
+    "capitalStatus": "완전자본잠식",
+    "solvencyRatioCompany": 66,
+    "solvencyRatioAverage": 100,
+    "debtRatioCompany": 149,
+    "debtRatioAverage": 100
+  },
+  "prepayment": {
+    "totalPrepayment": 13269982860,
+    "guaranteeRatio": 50,
+    "guaranteeInstitution": "국민은행",
+    "guaranteeType": "예치계약",
+    "guaranteeAmount": 6634991430,
+    "guaranteeInstitutionDetail": "국민은행(서면지점)"
+  },
+  "source": {
+    "name": "공정거래위원회 선불식할부거래사업자 정보공개",
+    "url": "https://www.ftc.go.kr/www/selectBizPpitOpenList.do?key=250",
+    "asOfDate": "2026-07-22"
+  }
+}

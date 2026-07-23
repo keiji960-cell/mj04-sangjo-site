@@ -1,0 +1,42 @@
+{
+  "name": "보람상조실로암(주)[구, 한국힐링라이프(주), 한국상조협동(주)]",
+  "ceoNameMasked": "오 *  *",
+  "regNumber": "서울-2011-제87호",
+  "regDate": "2011-03-15",
+  "corpRegNumber": "1101113540873",
+  "bizRegNumber": "212-81-77208",
+  "corpAddress": "서울특별시 중구 세종대로 73",
+  "officeAddress": "서울특별시 중구 세종대로 73",
+  "phone": "1588-7979",
+  "email": "bor******@boram.com",
+  "status": "정상영업",
+  "businessStartDate": "2006-10-16",
+  "finance": {
+    "currentAssets": 1537759684,
+    "fixedAssets": 16166447284,
+    "totalAssets": 17704206968,
+    "currentLiabilities": 344026984,
+    "nonCurrentLiabilities": 42544982810,
+    "totalLiabilities": 42889009794,
+    "totalEquity": -25184802826,
+    "capital": 1527575000,
+    "capitalStatus": "완전자본잠식",
+    "solvencyRatioCompany": 40,
+    "solvencyRatioAverage": 100,
+    "debtRatioCompany": 242,
+    "debtRatioAverage": 100
+  },
+  "prepayment": {
+    "totalPrepayment": 42313065510,
+    "guaranteeRatio": 50,
+    "guaranteeInstitution": "한국상조공제조합",
+    "guaranteeType": "공제계약",
+    "guaranteeAmount": 21156532755,
+    "guaranteeInstitutionDetail": "한국상조공제조합"
+  },
+  "source": {
+    "name": "공정거래위원회 선불식할부거래사업자 정보공개",
+    "url": "https://www.ftc.go.kr/www/selectBizPpitOpenList.do?key=250",
+    "asOfDate": "2026-07-22"
+  }
+}

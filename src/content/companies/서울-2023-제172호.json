@@ -1,0 +1,42 @@
+{
+  "name": "(주)하나로크루즈",
+  "ceoNameMasked": "김 *  *",
+  "regNumber": "서울-2023-제172호",
+  "regDate": "2023-02-09",
+  "corpRegNumber": "1101117303590",
+  "bizRegNumber": "591-86-01533",
+  "corpAddress": "서울특별시 종로구 인사동5길 25",
+  "officeAddress": "상동",
+  "phone": "1577-9680",
+  "email": "han*********@gmail.com",
+  "status": "정상영업",
+  "businessStartDate": null,
+  "finance": {
+    "currentAssets": 5133244514,
+    "fixedAssets": 1914496982,
+    "totalAssets": 7047741496,
+    "currentLiabilities": 9442772094,
+    "nonCurrentLiabilities": 0,
+    "totalLiabilities": 9442772094,
+    "totalEquity": -2395030598,
+    "capital": 1500000000,
+    "capitalStatus": "완전자본잠식",
+    "solvencyRatioCompany": 74,
+    "solvencyRatioAverage": 100,
+    "debtRatioCompany": 134,
+    "debtRatioAverage": 100
+  },
+  "prepayment": {
+    "totalPrepayment": 10609644120,
+    "guaranteeRatio": 38,
+    "guaranteeInstitution": "국민은행",
+    "guaranteeType": "예치계약",
+    "guaranteeAmount": 4038199240,
+    "guaranteeInstitutionDetail": "국민은행(광화문종합금융센터)"
+  },
+  "source": {
+    "name": "공정거래위원회 선불식할부거래사업자 정보공개",
+    "url": "https://www.ftc.go.kr/www/selectBizPpitOpenList.do?key=250",
+    "asOfDate": "2026-07-22"
+  }
+}

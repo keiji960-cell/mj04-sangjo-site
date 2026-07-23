@@ -1,0 +1,42 @@
+{
+  "name": "(주)보훈[구, (주)보훈상조]",
+  "ceoNameMasked": "박 *  *",
+  "regNumber": "경남-2013-제24호",
+  "regDate": "2013-02-25",
+  "corpRegNumber": "1942110210154",
+  "bizRegNumber": "609-86-10987",
+  "corpAddress": "경상남도 창원시 의창구 중동중앙로 47",
+  "officeAddress": "경상남도 창원시 의창구 중동중앙로 47",
+  "phone": "1566-3585",
+  "email": "boh***@bohoon.co.kr",
+  "status": "정상영업",
+  "businessStartDate": "2013-02-25",
+  "finance": {
+    "currentAssets": 12733334139,
+    "fixedAssets": 14033738141,
+    "totalAssets": 26767072280,
+    "currentLiabilities": 30139781754,
+    "nonCurrentLiabilities": 444390202,
+    "totalLiabilities": 30584171956,
+    "totalEquity": -3817099676,
+    "capital": 1530000000,
+    "capitalStatus": "완전자본잠식",
+    "solvencyRatioCompany": 87,
+    "solvencyRatioAverage": 100,
+    "debtRatioCompany": 114,
+    "debtRatioAverage": 100
+  },
+  "prepayment": {
+    "totalPrepayment": 29977773700,
+    "guaranteeRatio": 50,
+    "guaranteeInstitution": "상조보증공제조합",
+    "guaranteeType": "공제계약",
+    "guaranteeAmount": 14988886850,
+    "guaranteeInstitutionDetail": "상조보증공제조합"
+  },
+  "source": {
+    "name": "공정거래위원회 선불식할부거래사업자 정보공개",
+    "url": "https://www.ftc.go.kr/www/selectBizPpitOpenList.do?key=250",
+    "asOfDate": "2026-07-22"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "name": "태양라이프 주식회사[구,주식회사 올리라이프, 태양상조 주식회사]",
+  "ceoNameMasked": "김 *",
+  "regNumber": "경남-2018-제1호",
+  "regDate": "2010-10-12",
+  "corpRegNumber": "1954110011565",
+  "bizRegNumber": "613-81-37622",
+  "corpAddress": "경상남도 진주시 사들로123번길 42",
+  "officeAddress": "경상남도 진주시 사들로123번길 42",
+  "phone": "1588-0393",
+  "email": "ty-****@ty-life.co.kr",
+  "status": "정상영업",
+  "businessStartDate": "2005-05-20",
+  "finance": {
+    "currentAssets": 10403184959,
+    "fixedAssets": 4840499155,
+    "totalAssets": 15243684114,
+    "currentLiabilities": 3762086777,
+    "nonCurrentLiabilities": 12401790940,
+    "totalLiabilities": 16163877717,
+    "totalEquity": -920193603,
+    "capital": 1500000000,
+    "capitalStatus": "완전자본잠식",
+    "solvencyRatioCompany": 91,
+    "solvencyRatioAverage": 100,
+    "debtRatioCompany": 106,
+    "debtRatioAverage": 100
+  },
+  "prepayment": {
+    "totalPrepayment": 10638168204,
+    "guaranteeRatio": 50,
+    "guaranteeInstitution": "상조보증공제조합",
+    "guaranteeType": "공제계약",
+    "guaranteeAmount": 5319084102,
+    "guaranteeInstitutionDetail": "상조보증공제조합"
+  },
+  "source": {
+    "name": "공정거래위원회 선불식할부거래사업자 정보공개",
+    "url": "https://www.ftc.go.kr/www/selectBizPpitOpenList.do?key=250",
+    "asOfDate": "2026-07-22"
+  }
+}

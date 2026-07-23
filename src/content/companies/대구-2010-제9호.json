@@ -1,0 +1,42 @@
+{
+  "name": "현대에스라이프(주)[구. 현대상조(주)]",
+  "ceoNameMasked": "이 *  *",
+  "regNumber": "대구-2010-제9호",
+  "regDate": "2010-11-10",
+  "corpRegNumber": "1701110219536",
+  "bizRegNumber": "504-81-45435",
+  "corpAddress": "대구광역시 동구 안심로 52",
+  "officeAddress": "대구광역시 동구 안심로 52",
+  "phone": "1566-1678",
+  "email": "san***@hyundaislife.com",
+  "status": "정상영업",
+  "businessStartDate": "2002-04-08",
+  "finance": {
+    "currentAssets": 13306450509,
+    "fixedAssets": 123531883924,
+    "totalAssets": 136838334433,
+    "currentLiabilities": 17996349854,
+    "nonCurrentLiabilities": 68230535962,
+    "totalLiabilities": 86226885816,
+    "totalEquity": 50611448617,
+    "capital": 1500000000,
+    "capitalStatus": "정상",
+    "solvencyRatioCompany": 188,
+    "solvencyRatioAverage": 100,
+    "debtRatioCompany": 63,
+    "debtRatioAverage": 100
+  },
+  "prepayment": {
+    "totalPrepayment": 60861844662,
+    "guaranteeRatio": 50,
+    "guaranteeInstitution": "한국상조공제조합",
+    "guaranteeType": "공제계약",
+    "guaranteeAmount": 30430922331,
+    "guaranteeInstitutionDetail": "한국상조공제조합"
+  },
+  "source": {
+    "name": "공정거래위원회 선불식할부거래사업자 정보공개",
+    "url": "https://www.ftc.go.kr/www/selectBizPpitOpenList.do?key=250",
+    "asOfDate": "2026-07-22"
+  }
+}

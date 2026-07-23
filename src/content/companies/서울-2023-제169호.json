@@ -1,0 +1,42 @@
+{
+  "name": "에이치디투어존(주) [구, 현대투어존(주)]",
+  "ceoNameMasked": "정 *  *",
+  "regNumber": "서울-2023-제169호",
+  "regDate": "2023-02-06",
+  "corpRegNumber": "1101115981942",
+  "bizRegNumber": "360-81-00309",
+  "corpAddress": "서울특별시 강서구 양천로 364",
+  "officeAddress": "서울특별시 강서구 양천로 364",
+  "phone": "1588-0151",
+  "email": "fc1****@nate.com",
+  "status": "정상영업",
+  "businessStartDate": null,
+  "finance": {
+    "currentAssets": 40926844679,
+    "fixedAssets": 62010276100,
+    "totalAssets": 102937120779,
+    "currentLiabilities": 1504385510,
+    "nonCurrentLiabilities": 107641017978,
+    "totalLiabilities": 109145403488,
+    "totalEquity": -6208282709,
+    "capital": 1500000000,
+    "capitalStatus": "완전자본잠식",
+    "solvencyRatioCompany": 94,
+    "solvencyRatioAverage": 100,
+    "debtRatioCompany": 106,
+    "debtRatioAverage": 100
+  },
+  "prepayment": {
+    "totalPrepayment": 59514091255,
+    "guaranteeRatio": 50,
+    "guaranteeInstitution": "기업은행",
+    "guaranteeType": "채무지급보증계약",
+    "guaranteeAmount": 29760000000,
+    "guaranteeInstitutionDetail": "기업은행(가양동지점)"
+  },
+  "source": {
+    "name": "공정거래위원회 선불식할부거래사업자 정보공개",
+    "url": "https://www.ftc.go.kr/www/selectBizPpitOpenList.do?key=250",
+    "asOfDate": "2026-07-22"
+  }
+}

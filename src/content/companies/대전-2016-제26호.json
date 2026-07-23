@@ -1,0 +1,42 @@
+{
+  "name": "세종라이프(주)(구. 세종라이프상조(주))",
+  "ceoNameMasked": "이 *  *",
+  "regNumber": "대전-2016-제26호",
+  "regDate": "2010-10-22",
+  "corpRegNumber": "1101113335472",
+  "bizRegNumber": "206-86-03026",
+  "corpAddress": "대전광역시 서구 둔산중로32번길 25",
+  "officeAddress": "대전광역시 서구 둔산중로32번길 25",
+  "phone": "1588-7969",
+  "email": "has****@hanmail.net",
+  "status": "정상영업",
+  "businessStartDate": "2005-11-04",
+  "finance": {
+    "currentAssets": 90895776,
+    "fixedAssets": 5920564255,
+    "totalAssets": 6011460031,
+    "currentLiabilities": 1272213512,
+    "nonCurrentLiabilities": 12255124526,
+    "totalLiabilities": 13527338038,
+    "totalEquity": -7515878007,
+    "capital": 1800000000,
+    "capitalStatus": "완전자본잠식",
+    "solvencyRatioCompany": 38,
+    "solvencyRatioAverage": 100,
+    "debtRatioCompany": 225,
+    "debtRatioAverage": 100
+  },
+  "prepayment": {
+    "totalPrepayment": 11890105096,
+    "guaranteeRatio": 50,
+    "guaranteeInstitution": "한국상조공제조합",
+    "guaranteeType": "공제계약",
+    "guaranteeAmount": 5945052548,
+    "guaranteeInstitutionDetail": "한국상조공제조합"
+  },
+  "source": {
+    "name": "공정거래위원회 선불식할부거래사업자 정보공개",
+    "url": "https://www.ftc.go.kr/www/selectBizPpitOpenList.do?key=250",
+    "asOfDate": "2026-07-22"
+  }
+}

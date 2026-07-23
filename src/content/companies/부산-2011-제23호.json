@@ -1,0 +1,42 @@
+{
+  "name": "(주)새부산상조",
+  "ceoNameMasked": "박 *  *",
+  "regNumber": "부산-2011-제23호",
+  "regDate": "2011-03-04",
+  "corpRegNumber": "1801110104347",
+  "bizRegNumber": "604-81-14213",
+  "corpAddress": "부산광역시 연제구 중앙대로 1074",
+  "officeAddress": "부산광역시 연제구 중앙대로 1074",
+  "phone": "1588-3971",
+  "email": "sun*******@hanmail.net",
+  "status": "정상영업",
+  "businessStartDate": "1990-11-01",
+  "finance": {
+    "currentAssets": 3277501656,
+    "fixedAssets": 9319661845,
+    "totalAssets": 12597163501,
+    "currentLiabilities": 319417458,
+    "nonCurrentLiabilities": 10269534153,
+    "totalLiabilities": 10588951611,
+    "totalEquity": 2008211890,
+    "capital": 1501180000,
+    "capitalStatus": "정상",
+    "solvencyRatioCompany": 121,
+    "solvencyRatioAverage": 100,
+    "debtRatioCompany": 84,
+    "debtRatioAverage": 100
+  },
+  "prepayment": {
+    "totalPrepayment": 9541172500,
+    "guaranteeRatio": 50,
+    "guaranteeInstitution": "상조보증공제조합",
+    "guaranteeType": "공제계약",
+    "guaranteeAmount": 4770586250,
+    "guaranteeInstitutionDetail": "상조보증공제조합"
+  },
+  "source": {
+    "name": "공정거래위원회 선불식할부거래사업자 정보공개",
+    "url": "https://www.ftc.go.kr/www/selectBizPpitOpenList.do?key=250",
+    "asOfDate": "2026-07-22"
+  }
+}

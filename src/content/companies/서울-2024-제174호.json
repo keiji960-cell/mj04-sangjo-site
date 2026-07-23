@@ -1,0 +1,42 @@
+{
+  "name": "(주)고이장례연구소",
+  "ceoNameMasked": "송 *  *",
+  "regNumber": "서울-2024-제174호",
+  "regDate": "2024-05-01",
+  "corpRegNumber": "1101118000939",
+  "bizRegNumber": "831-87-01971",
+  "corpAddress": "서울특별시 관악구 신림로 132",
+  "officeAddress": "상동",
+  "phone": "1666-9784",
+  "email": "fin****@goifuneral.co.kr",
+  "status": "정상영업",
+  "businessStartDate": "2021-08-27",
+  "finance": {
+    "currentAssets": 7837273335,
+    "fixedAssets": 850665593,
+    "totalAssets": 8687938928,
+    "currentLiabilities": 803879529,
+    "nonCurrentLiabilities": 1314135820,
+    "totalLiabilities": 2118015349,
+    "totalEquity": 6569923579,
+    "capital": 2143230500,
+    "capitalStatus": "정상",
+    "solvencyRatioCompany": 916,
+    "solvencyRatioAverage": 100,
+    "debtRatioCompany": 24,
+    "debtRatioAverage": 100
+  },
+  "prepayment": {
+    "totalPrepayment": 1247675200,
+    "guaranteeRatio": 65,
+    "guaranteeInstitution": "국민은행",
+    "guaranteeType": "예치계약",
+    "guaranteeAmount": 815825785,
+    "guaranteeInstitutionDetail": "국민은행 광화문종합금융센터"
+  },
+  "source": {
+    "name": "공정거래위원회 선불식할부거래사업자 정보공개",
+    "url": "https://www.ftc.go.kr/www/selectBizPpitOpenList.do?key=250",
+    "asOfDate": "2026-07-22"
+  }
+}
