@@ -22,6 +22,11 @@ const canonicalURL = new URL(Astro.url.pathname, Astro.site);
     <meta property="og:url" content={canonicalURL} />
     <meta property="og:locale" content="ko_KR" />
     <title>{title}</title>
+    <!-- Vercel Web Analytics (Vercel 대시보드에서 Web Analytics 활성화 필요) -->
+    <script is:inline>
+      window.va = window.va || function () { (window.vaq = window.vaq || []).push(arguments); };
+    </script>
+    <script defer src="/_vercel/insights/script.js"></script>
   </head>
   <body>
     <div class="site-banner">

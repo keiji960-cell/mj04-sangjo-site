@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+
+User-agent: Mediapartners-Google
+Allow: /
+
+Sitemap: https://mj04-sangjo-site-3l8v.vercel.app/sitemap-index.xml
